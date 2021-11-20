@@ -1,5 +1,5 @@
 # Books and Other Sources
-These sources are generally in order of release.
+These sources are generally in order of release. Any mechanic that has been updated in a later source is crossed out.
 
 
 ---
@@ -87,7 +87,11 @@ Master, Skilled, Skulker, Spell Sniper, Tavern Brawler, Tough, War Caster, Weapo
 
 ---
 ## Dungeon Master's Guide (DMG)
-[UNDER CONSTRUCTION]
+### Races
+Aasimar
+### Class Options
+- Cleric Divine Domains: Death Domain
+- Paladin Sacred Oaths: Oathbreaker
 
 
 ---
