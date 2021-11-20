@@ -96,7 +96,13 @@ Aasimar
 
 ---
 ## Elemental Evil Player's Companion (EE) - [PDF](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
-[UNDER CONSTRUCTION]
+### Races
+- **Aarakocra**
+- **Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
+- **Gnome** - Subraces: Deep Gnome
+- **Goliath**
+### Feats
+- Svirfneblin Magic
 
 
 ---
