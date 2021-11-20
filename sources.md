@@ -1,8 +1,9 @@
 # Books and Other Sources
-These sources are generally in order of release. Any mechanic that has been updated in a later source is crossed out.
-
+These sources are in order of release. Any mechanic that has been updated in a later source is crossed out in the
+outdated version.
 
 ---
+
 ## Player's Basic Rules (PBR) - [Website](https://dnd.wizards.com/products/tabletop/players-basic-rules)
 ### Races
 - **Dwarf** - Subraces: Hill Dwarf, Mountain Dwarf
@@ -17,8 +18,8 @@ These sources are generally in order of release. Any mechanic that has been upda
 ### Backgrounds
 Acolyte, Criminal, Folk Hero, Noble, Sage, Soldier
 
-
 ---
+
 ## System Reference Document (SRD) - [PDF](https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 ### Races
 - **Dragonborn**
@@ -46,8 +47,8 @@ Acolyte, Criminal, Folk Hero, Noble, Sage, Soldier
 ### Backgrounds
 Acolyte
 
-
 ---
+
 ## Player's Handbook (PHB)
 ### Races
 - **Dragonborn**
@@ -84,17 +85,8 @@ Armored, Linguist, Lucky, Mage Slayer, Magic Initiate, Martial Adept, Medium Arm
 Mounted Combatant, Observant, Polearm Master, Resilient, Ritual Caster, Savage Attacker, Sentinel, Sharpshooter, Shield
 Master, Skilled, Skulker, Spell Sniper, Tavern Brawler, Tough, War Caster, Weapon Master
 
-
 ---
-## Dungeon Master's Guide (DMG)
-### Races
-Aasimar
-### Class Options
-- Cleric Divine Domains: Death Domain
-- Paladin Sacred Oaths: Oathbreaker
 
-
----
 ## Elemental Evil Player's Companion (EE) - [PDF](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
 ### Races
 - **Aarakocra**
@@ -104,42 +96,78 @@ Aasimar
 ### Feats
 - Svirfneblin Magic
 
-
 ---
+
 ## Sword Coast Adventurer's Guide (SCAG)
 [UNDER CONSTRUCTION]
 
+---
+
+## Dungeon Master's Guide (DMG)
+### Races
+Aasimar
+### Class Options
+- Cleric Divine Domains: Death Domain
+- Paladin Sacred Oaths: Oathbreaker
 
 ---
+
 ## Volo's Guide to Monsters (Volo)
 [UNDER CONSTRUCTION]
 
-
 ---
+
 ## Xanathar's Guide to Everything (XGtE)
 [UNDER CONSTRUCTION]
 
-
 ---
+
 ## Mordekainen's Tome of Foes (MToF)
 [UNDER CONSTRUCTION]
 
-
 ---
+
 ## Guildmaster's Guide to Ravnica (Ravnica)
 [UNDER CONSTRUCTION]
 
+---
+
+## Acquisitions Incorporated (AI)
+[UNDER CONSTRUCTION]
 
 ---
+
 ## Eberron: Rising from the Last War (Eberron)
 [UNDER CONSTRUCTION]
 
+---
+
+## Explorer's Guide to Wildemount (EGtW)
+[UNDER CONSTRUCTION]
 
 ---
+
 ## Mythic Odysseys of Theros (Theros)
 [UNDER CONSTRUCTION]
 
-
 ---
+
 ## Tasha's Cauldron of Everything (TCoE)
 [UNDER CONSTRUCTION]
+
+---
+
+## Van Richten's Guide to Ravenloft (Ravenloft)
+[UNDER CONSTRUCTION]
+
+---
+
+## Fizban's Treasury of Dragons (Fizban)
+[UNDER CONSTRUCTION]
+
+---
+
+## Strixhaven: A Curriculum of Chaos (Strixhaven)
+[UNDER CONSTRUCTION]
+
+---
