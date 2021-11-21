@@ -11,7 +11,7 @@
 | 2017 Nov 12   | XGtE      | Xanathar's Guide to Everything                    |
 | 2018 May 29   | MToF      | Mordenkainen's Tome of Foes                       |
 | 2018 Nov 20   | Ravnica   | Guildmasters' Guide to Ravnica                    |
-| 2019 Jun 18   | AI        | Acquisitions Incorporated                         |
+| 2019 Jun 18   | AcqInc    | Acquisitions Incorporated                         |
 | 2019 Nov 19   | Eberron   | Eberron: Rising from the Last War                 |
 | 2020 Mar 17   | EGtW      | Explorer's Guide to Wildemount                    |
 | 2020 Jul 21   | Theros    | Mythic Odysseys of Theros                         |
