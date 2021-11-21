@@ -1,4 +1,4 @@
-# Character Creation Options
+# Character Creation Options By Category
 
 | KEY |                         |
 |-----|-------------------------|
