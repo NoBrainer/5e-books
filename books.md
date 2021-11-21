@@ -1,6 +1,6 @@
-# Books and Other Sources
-These sources are in order of release. Any mechanic that has been updated in a later source is crossed out in the
-outdated version.
+# Character Creation Options By Book/Source
+These sources are in order of release. Any option that has been updated in a later source is crossed out in the outdated
+version.
 
 ---
 
