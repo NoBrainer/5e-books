@@ -1,7 +1,13 @@
 # Feats
 
-|                           |PHB|EE |
-|---------------------------|---|---|
+| KEY |                         |
+|-----|-------------------------|
+| O   | included but outdated   |
+| X   | included                |
+| X+  | adds additional options |
+
+|                           |PHB|EE |SCAG|
+|---------------------------|---|---|----|
 | **Alert**                 | X |
 | **Athlete**               | X |
 | **Actor**                 | X |
@@ -40,7 +46,7 @@
 | **Skilled**               | X |
 | **Skulker**               | X |
 | **Spell Sniper**          | X |
-| **Svirfneblin Magic**     |   | X |
+| **Svirfneblin Magic**     |   | X | X  |
 | **Tavern Brawler**        | X |
 | **Tough**                 | X |
 | **War Caster**            | X |
