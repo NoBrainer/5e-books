@@ -91,15 +91,31 @@ Master, Skilled, Skulker, Spell Sniper, Tavern Brawler, Tough, War Caster, Weapo
 ### Races
 - **Aarakocra**
 - **Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
-- **Gnome** - Subraces: Deep Gnome
+- **Gnome** - Subraces: Deep Gnome (Svirfneblin)
 - **Goliath**
 ### Feats
-- Svirfneblin Magic
+Svirfneblin Magic
 
 ---
 
 ## Sword Coast Adventurer's Guide (SCAG)
-[UNDER CONSTRUCTION]
+### Subraces
+Deep Gnome (Svirfneblin)
+### Class Options
+- **Barbarian Primal Paths:** Path of the Battlerager, More options for Path of the Totem Warrior
+- **Cleric Divine Domains:** Arcana Domain
+- **Fighter Martial Archetypes:** Purple Dragon Knight
+- **Monk Monastic Traditions:** Way of the Long Death, Way of the Sun Soul
+- **Paladin Sacred Oaths:** Oath of the Crown
+- **Rogue Roguish Archetypes:** Mastermind, Swashbuckler
+- **Sorcerer Sorcerous Origins:** Storm Sorcery
+- **Warlock Otherworldly Patrons:** The Undying
+- **Wizard Arcane Traditions:** Bladesinging
+### Backgrounds
+City Watch, Clan Crafter, Cloistered Scholar, Courtier, Faction Agent, Far Traveler, Inheritor, Knight of the Order,
+Mercenary Veteran, Urban Bounty Hunter, Uthgardt Tribe Member, Waterdhavian Noble
+### Feats
+Svirfneblin Magic
 
 ---
 
@@ -107,8 +123,8 @@ Master, Skilled, Skulker, Spell Sniper, Tavern Brawler, Tough, War Caster, Weapo
 ### Races
 Aasimar
 ### Class Options
-- Cleric Divine Domains: Death Domain
-- Paladin Sacred Oaths: Oathbreaker
+- **Cleric Divine Domains:** Death Domain
+- **Paladin Sacred Oaths:** Oathbreaker
 
 ---
 
