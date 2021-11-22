@@ -107,8 +107,8 @@ Deep Gnome (Svirfneblin)
 - **Fighter Martial Archetypes:** Purple Dragon Knight
 - **Monk Monastic Traditions:** Way of the Long Death, Way of the Sun Soul
 - **Paladin Sacred Oaths:** Oath of the Crown
-- **Rogue Roguish Archetypes:** Mastermind, Swashbuckler
-- **Sorcerer Sorcerous Origins:** Storm Sorcery
+- **Roguish Archetypes:** Mastermind, Swashbuckler
+- **Sorcerous Origins:** Storm Sorcery
 - **Warlock Otherworldly Patrons:** The Undying
 - **Wizard Arcane Traditions:** Bladesinging
 ### Backgrounds
@@ -147,7 +147,23 @@ Svirfneblin Magic
 ---
 
 ## Xanathar's Guide to Everything (XGtE)
-[UNDER CONSTRUCTION]
+### Class Options
+- **Barbarian Primal Paths:** Path of the Ancestral Guardian, Path of the Storm Herald, Path of the Zealot
+- **Bard Colleges:** College of Glamour, College of Swords, College of Whispers
+- **Cleric Divine Domains:** Forge Domain, Grave Domain
+- **Druid Circles:** Circle of Dreams, Circle of the Shepherd
+- **Fighter Martial Archetypes:** Arcane Archer, Cavalier, Samurai
+- **Monk Monastic Traditions:** Way of the Drunken Master, Way of the Kensei, Way of the Sun Soul
+- **Paladin Sacred Oaths:** Oath of Conquest, Oath of Redemption
+- **Ranger Archetypes:** Gloom Stalker, Horizon Walker, Monster Slayer
+- **Roguish Archetypes:** Inquisitive, Mastermind, Scout, Swashbuckler
+- **Sorcerous Origins:** Divine Soul, Shadow Magic, Storm Sorcery
+- **Warlock Otherworldly Patrons:** The Celestial, The Hexblade
+- **Wizard Arcane Traditions:** War Magic
+### Feats
+Bountiful Luck, Dragon Fear, Dragon Hide, Drow High Magic, Dwarven Fortitude, Elven Accuracy, Fade Away, Fey
+Teleportation, Flames of Phlegethos, Infernal Constitution, Orcish Fury, Prodigy, Second Chance, Squat Nimbleness, Wood
+Elf Magic
 
 ---
 
@@ -161,7 +177,7 @@ Svirfneblin Magic
 
 ---
 
-## Acquisitions Incorporated (AI)
+## Acquisitions Incorporated (AcqInc)
 [UNDER CONSTRUCTION]
 
 ---
