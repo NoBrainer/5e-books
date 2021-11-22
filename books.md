@@ -121,7 +121,7 @@ Svirfneblin Magic
 
 ## Dungeon Master's Guide (DMG)
 ### Races
-Aasimar
+~~Aasimar~~ [Updated in Volo]
 ### Class Options
 - **Cleric Divine Domains:** Death Domain
 - **Paladin Sacred Oaths:** Oathbreaker
@@ -129,7 +129,20 @@ Aasimar
 ---
 
 ## Volo's Guide to Monsters (Volo)
-[UNDER CONSTRUCTION]
+### Races
+- **Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar
+- **Bugbear**
+- **Firbolg**
+- **Goblin**
+- **Goliath**
+- **Hobgoblin**
+- **Kenku**
+- **Kobold**
+- **Lizardfolk**
+- **Orc**
+- **Tabaxi**
+- **Triton**
+- **Yuan-ti Pureblood**
 
 ---
 

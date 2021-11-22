@@ -7,10 +7,14 @@
 | X+  | adds additional options |
 
 ## Races
-|                             |PBR|SRD|PHB|EE |SCAG|DMG|
-|-----------------------------|---|---|---|---|----|---|
-| **Aasimar**                 |   |   |   |   |    | X |
+|                             |PBR|SRD|PHB|EE |SCAG|DMG|Volo|
+|-----------------------------|---|---|---|---|----|---|----|
+| **Aasimar**                 |   |   |   |   |    | O | X  |
+| - Fallen Aasimar            |   |   |   |   |    |   | X  |
+| - Protector Aasimar         |   |   |   |   |    |   | X  |
+| - Scourge Aasimar           |   |   |   |   |    |   | X  |
 | **Aarakocra**               |   |   |   | X |
+| **Bugbear**                 |   |   |   |   |    |   | X  |
 | **Dragonborn**              |   | X | X |
 | **Dwarf**                   | X | X | X |
 | - Hill Dwarf                | X | X | X |
@@ -19,6 +23,7 @@
 | - Dark Elf (Drow)           |   |   | X |
 | - High Elf                  | X | X | X |
 | - Wood Elf                  | X |   | X |
+| **Firbolg**                 |   |   |   |   |    |   | X  |
 | **Gnome**                   |   | X | X | X |
 | - Deep Gnome (Svirfneblin)  |   |   |   | X | X  |
 | - Forest Gnome              |   |   | X |
@@ -28,14 +33,23 @@
 | - Earth Genasi              |   |   |   | X |
 | - Fire Genasi               |   |   |   | X |
 | - Water Genasi              |   |   |   | X |
-| **Goliath**                 |   |   |   | X |
+| **Goblin**                  |   |   |   |   |    |   | X  |
+| **Goliath**                 |   |   |   | X |    |   | X  |
 | **Half-Elf**                |   | X | X |
 | **Half-Orc**                |   | X | X |
 | **Halfling**                | X | X | X |
 | - Lightfoot Halfling        | X | X | X |
 | - Stout Halfling            | X |   | X |
+| **Hobgoblin**               |   |   |   |   |    |   | X  |
 | **Human**                   | X | X | X |
+| **Kenku**                   |   |   |   |   |    |   | X  |
+| **Kobold**                  |   |   |   |   |    |   | X  |
+| **Lizardfolk**              |   |   |   |   |    |   | X  |
+| **Orc**                     |   |   |   |   |    |   | X  |
+| **Tabaxi**                  |   |   |   |   |    |   | X  |
 | **Tiefling**                |   | X | X |
+| **Triton**                  |   |   |   |   |    |   | X  |
+| **Yuan-ti Pureblood**       |   |   |   |   |    |   | X  |
 
 ## Classes
 |                                   |PBR|SRD|PHB|SCAG|DMG|
