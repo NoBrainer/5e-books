@@ -4,52 +4,69 @@
 |-----|-------------------------|
 | O   | outdated rules          |
 | X   | latest rules            |
-| X+  | adds additional options |
+| *   | minor wording changes   |
+| +   | adds additional options |
 
 ## Races
-|                             |PBR|SRD|PHB|EE |SCAG|DMG|Volo|
-|-----------------------------|---|---|---|---|----|---|----|
-| **Aasimar**                 |   |   |   |   |    | O | X  |
-| - Fallen Aasimar            |   |   |   |   |    |   | X  |
-| - Protector Aasimar         |   |   |   |   |    |   | X  |
-| - Scourge Aasimar           |   |   |   |   |    |   | X  |
-| **Aarakocra**               |   |   |   | X |
-| **Bugbear**                 |   |   |   |   |    |   | X  |
-| **Dragonborn**              |   | X | X |
-| **Dwarf**                   | X | X | X |
-| - Hill Dwarf                | X | X | X |
-| - Mountain Dwarf            | X |   | X |
-| **Elf**                     | X | X | X |
-| - Dark Elf (Drow)           |   |   | X |
-| - High Elf                  | X | X | X |
-| - Wood Elf                  | X |   | X |
-| **Firbolg**                 |   |   |   |   |    |   | X  |
-| **Gnome**                   |   | X | X | X |
-| - Deep Gnome (Svirfneblin)  |   |   |   | X | X  |
-| - Forest Gnome              |   |   | X |
-| - Rock Gnome                |   | X | X |
-| **Genasi**                  |   |   |   | X |
-| - Air Genasi                |   |   |   | X |
-| - Earth Genasi              |   |   |   | X |
-| - Fire Genasi               |   |   |   | X |
-| - Water Genasi              |   |   |   | X |
-| **Goblin**                  |   |   |   |   |    |   | X  |
-| **Goliath**                 |   |   |   | X |    |   | X  |
-| **Half-Elf**                |   | X | X |
-| **Half-Orc**                |   | X | X |
-| **Halfling**                | X | X | X |
-| - Lightfoot Halfling        | X | X | X |
-| - Stout Halfling            | X |   | X |
-| **Hobgoblin**               |   |   |   |   |    |   | X  |
-| **Human**                   | X | X | X |
-| **Kenku**                   |   |   |   |   |    |   | X  |
-| **Kobold**                  |   |   |   |   |    |   | X  |
-| **Lizardfolk**              |   |   |   |   |    |   | X  |
-| **Orc**                     |   |   |   |   |    |   | X  |
-| **Tabaxi**                  |   |   |   |   |    |   | X  |
-| **Tiefling**                |   | X | X |
-| **Triton**                  |   |   |   |   |    |   | X  |
-| **Yuan-ti Pureblood**       |   |   |   |   |    |   | X  |
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|Volo|MToF|
+|-------------------------------|---|---|---|---|----|---|----|----|
+| **Aasimar**                   |   |   |   |   |    | O | X  |
+| - Fallen Aasimar              |   |   |   |   |    |   | X  |
+| - Protector Aasimar           |   |   |   |   |    |   | X  |
+| - Scourge Aasimar             |   |   |   |   |    |   | X  |
+| **Aarakocra**                 |   |   |   | X |
+| **Bugbear**                   |   |   |   |   |    |   | X  |
+| **Dragonborn**                |   | X | X |
+| **Dwarf**                     | X | X | X |
+| - Duegar                      |   |   |   |   |    |   |    | X  |
+| - Hill Dwarf                  | X | X | X |
+| - Mountain Dwarf              | X |   | X |
+| **Elf**                       | X | X | X |
+| - Dark Elf (Drow)             |   |   | X |
+| - Eladrin                     |   |   |   |   |    |   |    | X  |
+| - High Elf                    | X | X | X |
+| - Sea Elf                     |   |   |   |   |    |   |    | X  |
+| - Shadar-kai                  |   |   |   |   |    |   |    | X  |
+| - Wood Elf                    | X |   | X |
+| **Firbolg**                   |   |   |   |   |    |   | X  |
+| **Gith**                      |   |   |   |   |    |   |    | X  |
+| - Githyanki                   |   |   |   |   |    |   |    | X  |
+| - Githzerai                   |   |   |   |   |    |   |    | X  |
+| **Gnome**                     |   | X | X | X |
+| - Deep Gnome (Svirfneblin)    |   |   |   | X | X  |   |    | *  |
+| - Forest Gnome                |   |   | X |
+| - Rock Gnome                  |   | X | X |
+| **Genasi**                    |   |   |   | X |
+| - Air Genasi                  |   |   |   | X |
+| - Earth Genasi                |   |   |   | X |
+| - Fire Genasi                 |   |   |   | X |
+| - Water Genasi                |   |   |   | X |
+| **Goblin**                    |   |   |   |   |    |   | X  |
+| **Goliath**                   |   |   |   | X |    |   | X  |
+| **Half-Elf**                  |   | X | X |
+| **Half-Orc**                  |   | X | X |
+| **Halfling**                  | X | X | X |
+| - Lightfoot Halfling          | X | X | X |
+| - Stout Halfling              | X |   | X |
+| **Hobgoblin**                 |   |   |   |   |    |   | X  |
+| **Human**                     | X | X | X |
+| **Kenku**                     |   |   |   |   |    |   | X  |
+| **Kobold**                    |   |   |   |   |    |   | X  |
+| **Lizardfolk**                |   |   |   |   |    |   | X  |
+| **Orc**                       |   |   |   |   |    |   | X  |
+| **Tabaxi**                    |   |   |   |   |    |   | X  |
+| **Tiefling**                  |   | X | X |
+| - Asmodeus                    |   |   |   |   |    |   |    | X  |
+| - Baalzebul                   |   |   |   |   |    |   |    | X  |
+| - Dispater                    |   |   |   |   |    |   |    | X  |
+| - Fierna                      |   |   |   |   |    |   |    | X  |
+| - Glasya                      |   |   |   |   |    |   |    | X  |
+| - Levistus                    |   |   |   |   |    |   |    | X  |
+| - Mammon                      |   |   |   |   |    |   |    | X  |
+| - Mephistopheles              |   |   |   |   |    |   |    | X  |
+| - Zariel                      |   |   |   |   |    |   |    | X  |
+| **Triton**                    |   |   |   |   |    |   | X  |
+| **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
 |                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|
@@ -59,7 +76,7 @@
 | - Path of the Battlerager         |   |   |   | X  |
 | - Path of the Berserker           |   | X | X |
 | - Path of the Storm Herald        |   |   |   |    |   | X  |
-| - Path of the Totem Warrior       |   |   | X | X+ |
+| - Path of the Totem Warrior       |   |   | X | +  |
 | - Path of the Zealot              |   |   |   |    |   | X  |
 | **Bard**                          |   |   | X |
 | - College of Lore                 |   |   | X |
@@ -177,8 +194,8 @@
 | **Waterdhavian Noble**    |   |   |   | X  |
 
 ## Feats
-|                           |PHB|EE |SCAG|XGtE|
-|---------------------------|---|---|----|----|
+|                           |PHB|EE |SCAG|XGtE|MToF|
+|---------------------------|---|---|----|----|----|
 | **Alert**                 | X |
 | **Athlete**               | X |
 | **Actor**                 | X |
@@ -231,7 +248,7 @@
 | **Skulker**               | X |
 | **Spell Sniper**          | X |
 | **Squat Nimbleness**      |   |   |    | X  |
-| **Svirfneblin Magic**     |   | X | X  |
+| **Svirfneblin Magic**     |   | X | X  |    | *  |
 | **Tavern Brawler**        | X |
 | **Tough**                 | X |
 | **War Caster**            | X |

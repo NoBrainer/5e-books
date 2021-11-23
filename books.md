@@ -105,9 +105,9 @@ Deep Gnome (Svirfneblin)
 - **Barbarian Primal Paths:** Path of the Battlerager, More options for Path of the Totem Warrior
 - **Cleric Divine Domains:** Arcana Domain
 - **Fighter Martial Archetypes:** Purple Dragon Knight
-- **Monk Monastic Traditions:** Way of the Long Death, Way of the Sun Soul
+- **Monk Monastic Traditions:** Way of the Long Death, ~~Way of the Sun Soul~~ [Updated in XGtE]
 - **Paladin Sacred Oaths:** Oath of the Crown
-- **Roguish Archetypes:** Mastermind, Swashbuckler
+- **Roguish Archetypes:** Mastermind, ~~Swashbuckler~~ [Updated in XGtE]
 - **Sorcerous Origins:** Storm Sorcery
 - **Warlock Otherworldly Patrons:** The Undying
 - **Wizard Arcane Traditions:** Bladesinging
@@ -168,7 +168,16 @@ Elf Magic
 ---
 
 ## Mordekainen's Tome of Foes (MToF)
-[UNDER CONSTRUCTION]
+### Races
+- **Gith** - Subraces: Githyanki, Githzerai
+### Race Options
+- **Dwarf Subraces:** Duegar
+- **Elf Subraces:** Eladrin, Sea Elf, Shadar-kai
+- **Gnome Subraces:** Deep Gnome (Svirfneblin)
+- **Tiefling Subraces:** Asmodeus (same as default Tiefling in the PHB), Baalzebul, Dispater, Fierna, Glasya, Levistus,
+Mammon, Mephistopheles, Zariel
+### Feats
+Svirfneblin Magic
 
 ---
 
