@@ -8,14 +8,15 @@
 | +   | adds additional options |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|Volo|MToF|
-|-------------------------------|---|---|---|---|----|---|----|----|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|Volo|MToF|Ravnica|
+|-------------------------------|---|---|---|---|----|---|----|----|-------|
 | **Aasimar**                   |   |   |   |   |    | O | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |
 | - Protector Aasimar           |   |   |   |   |    |   | X  |
 | - Scourge Aasimar             |   |   |   |   |    |   | X  |
 | **Aarakocra**                 |   |   |   | X |
 | **Bugbear**                   |   |   |   |   |    |   | X  |
+| **Centaur**                   |   |   |   |   |    |   |    |    | X     |
 | **Dragonborn**                |   | X | X |
 | **Dwarf**                     | X | X | X |
 | - Duegar                      |   |   |   |   |    |   |    | X  |
@@ -29,6 +30,11 @@
 | - Shadar-kai                  |   |   |   |   |    |   |    | X  |
 | - Wood Elf                    | X |   | X |
 | **Firbolg**                   |   |   |   |   |    |   | X  |
+| **Genasi**                    |   |   |   | X |
+| - Air Genasi                  |   |   |   | X |
+| - Earth Genasi                |   |   |   | X |
+| - Fire Genasi                 |   |   |   | X |
+| - Water Genasi                |   |   |   | X |
 | **Gith**                      |   |   |   |   |    |   |    | X  |
 | - Githyanki                   |   |   |   |   |    |   |    | X  |
 | - Githzerai                   |   |   |   |   |    |   |    | X  |
@@ -36,12 +42,7 @@
 | - Deep Gnome (Svirfneblin)    |   |   |   | X | X  |   |    | *  |
 | - Forest Gnome                |   |   | X |
 | - Rock Gnome                  |   | X | X |
-| **Genasi**                    |   |   |   | X |
-| - Air Genasi                  |   |   |   | X |
-| - Earth Genasi                |   |   |   | X |
-| - Fire Genasi                 |   |   |   | X |
-| - Water Genasi                |   |   |   | X |
-| **Goblin**                    |   |   |   |   |    |   | X  |
+| **Goblin**                    |   |   |   |   |    |   | X  |    | X     |
 | **Goliath**                   |   |   |   | X |    |   | X  |
 | **Half-Elf**                  |   | X | X |
 | **Half-Orc**                  |   | X | X |
@@ -53,7 +54,10 @@
 | **Kenku**                     |   |   |   |   |    |   | X  |
 | **Kobold**                    |   |   |   |   |    |   | X  |
 | **Lizardfolk**                |   |   |   |   |    |   | X  |
+| **Loxodon**                   |   |   |   |   |    |   |    |    | X     |
+| **Minotaur**                  |   |   |   |   |    |   |    |    | X     |
 | **Orc**                       |   |   |   |   |    |   | X  |
+| **Simic Hybrid**              |   |   |   |   |    |   |    |    | X     |
 | **Tabaxi**                    |   |   |   |   |    |   | X  |
 | **Tiefling**                  |   | X | X |
 | - Asmodeus                    |   |   |   |   |    |   |    | X  |
@@ -66,11 +70,12 @@
 | - Mephistopheles              |   |   |   |   |    |   |    | X  |
 | - Zariel                      |   |   |   |   |    |   |    | X  |
 | **Triton**                    |   |   |   |   |    |   | X  |
+| **Vedalken**                  |   |   |   |   |    |   |    |    | X     |
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|
-|-----------------------------------|---|---|---|----|---|----|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|Ravnica|
+|-----------------------------------|---|---|---|----|---|----|-------|
 | **Barbarian**                     |   | X | X |
 | - Path of the Ancestral Guardian  |   |   |   |    |   | X  |
 | - Path of the Battlerager         |   |   |   | X  |
@@ -93,11 +98,13 @@
 | - Life Domain                     | X | X | X |
 | - Light Domain                    |   |   | X |
 | - Nature Domain                   |   |   | X |
+| - Order Domain                    |   |   |   |    |   |    | X     |
 | - Tempest Domain                  |   |   | X |
 | - Trickery Domain                 |   |   | X |
 | - War Domain                      |   |   | X |
 | **Druid**                         |   | X | X |
 | - Circle of Dreams                |   |   |   |    |   | X  |
+| - Circle of Spores                |   |   |   |    |   |    | X     |
 | - Circle of the Land              |   | X | X |
 | - Circle of the Moon              |   |   | X |
 | - Circle of the Shepherd          |   |   |   |    |   | X  |
@@ -165,28 +172,38 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                           |PBR|SRD|PHB|SCAG|
-|---------------------------|---|---|---|----|
+|                           |PBR|SRD|PHB|SCAG|Ravnica|
+|---------------------------|---|---|---|----|-------|
 | **Acolyte**               | X | X | X |
+| **Azorius Functionary**   |   |   |   |    | X     |
+| **Boros Legionnaire**     |   |   |   |    | X     |
 | **Charlatan**             |   |   | X |
 | **City Watch**            |   |   |   | X  |
 | **Clan Crafter**          |   |   |   | X  |
 | **Cloistered Scholar**    |   |   |   | X  |
 | **Courtier**              |   |   |   | X  |
 | **Criminal**              | X |   | X |
+| **Dimir Operative**       |   |   |   |    | X     |
 | **Entertainer**           |   |   | X |
 | **Faction Agent**         |   |   |   | X  |
 | **Far Traveler**          |   |   |   | X  |
 | **Folk Hero**             | X |   | X |
+| **Golgari Agent**         |   |   |   |    | X     |
+| **Gruul Anarch**          |   |   |   |    | X     |
 | **Guild Artisan**         |   |   | X |
 | **Hermit**                |   |   | X |
 | **Inheritor**             |   |   |   | X  |
+| **Izzet Engineer**        |   |   |   |    | X     |
 | **Knight of the Order**   |   |   |   | X  |
 | **Mercenary Veteran**     |   |   |   | X  |
 | **Noble**                 | X |   | X |
+| **Orzhov Representative** |   |   |   |    | X     |
 | **Outlander**             |   |   | X |
+| **Rakdos Cultist**        |   |   |   |    | X     |
 | **Sage**                  | X |   | X |
 | **Sailor**                |   |   | X |
+| **Selesnya Initiate**     |   |   |   |    | X     |
+| **Simic Scientist**       |   |   |   |    | X     |
 | **Soldier**               | X |   | X |
 | **Urban Bounty Hunter**   |   |   |   | X  |
 | **Urchin**                |   |   | X |

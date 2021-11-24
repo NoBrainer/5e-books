@@ -182,7 +182,19 @@ Svirfneblin Magic
 ---
 
 ## Guildmaster's Guide to Ravnica (Ravnica)
-[UNDER CONSTRUCTION]
+### Races
+- **Centaur**
+- **Goblin**
+- **Loxodon**
+- **Minotaur**
+- **Simic Hybrid**
+- **Vedalken**
+### Class Options
+- **Cleric Divine Domains:** Order Domain
+- **Druid Circles:** Circle of Spores
+#### Backgrounds
+Azorius Functionary, Boros Legionnaire, Dimir Operative, Golgari Agent, Gruul Anarch, Izzet Engineer, Orzhov
+Representative, Rakdos Cultist, Selesnya Initiate, Simic Scientist
 
 ---
 
