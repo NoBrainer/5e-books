@@ -128,7 +128,7 @@ Svirfneblin Magic
 
 ---
 
-## Volo's Guide to Monsters (Volo)
+## Volo's Guide to Monsters (VGtM)
 ### Races
 - **Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar
 - **Bugbear**
@@ -181,7 +181,7 @@ Svirfneblin Magic
 
 ---
 
-## Guildmaster's Guide to Ravnica (Ravnica)
+## Guildmaster's Guide to Ravnica (GGtR)
 ### Races
 - **Centaur**
 - **Goblin**
@@ -198,12 +198,15 @@ Representative, Rakdos Cultist, Selesnya Initiate, Simic Scientist
 
 ---
 
-## Acquisitions Incorporated (AcqInc)
-[UNDER CONSTRUCTION]
+## Acquisitions Incorporated (AI)
+### Races
+- **Verdan**
+### Backgrounds
+Celebrity Adventurer's Scion, Failed Merchant, Gambler, Plaintiff, Rival Intern
 
 ---
 
-## Eberron: Rising from the Last War (Eberron)
+## Eberron: Rising from the Last War (ERLW)
 [UNDER CONSTRUCTION]
 
 ---
@@ -213,7 +216,7 @@ Representative, Rakdos Cultist, Selesnya Initiate, Simic Scientist
 
 ---
 
-## Mythic Odysseys of Theros (Theros)
+## Mythic Odysseys of Theros (MOoT)
 [UNDER CONSTRUCTION]
 
 ---
@@ -223,17 +226,17 @@ Representative, Rakdos Cultist, Selesnya Initiate, Simic Scientist
 
 ---
 
-## Van Richten's Guide to Ravenloft (Ravenloft)
+## Van Richten's Guide to Ravenloft (VRGR)
 [UNDER CONSTRUCTION]
 
 ---
 
-## Fizban's Treasury of Dragons (Fizban)
+## Fizban's Treasury of Dragons (FToD)
 [UNDER CONSTRUCTION]
 
 ---
 
-## Strixhaven: A Curriculum of Chaos (Strixhaven)
+## Strixhaven: A Curriculum of Chaos (SCoC)
 [UNDER CONSTRUCTION]
 
 ---

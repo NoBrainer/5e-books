@@ -1,22 +1,40 @@
 # Character Creation Options By Category
 
-| KEY |                         |
-|-----|-------------------------|
-| O   | outdated rules          |
-| X   | latest rules            |
-| *   | minor wording changes   |
-| +   | adds additional options |
+| KEY   |                                                   |
+|-------|---------------------------------------------------|
+| O     | outdated rules                                    |
+| X     | latest rules                                      |
+| *     | minor wording changes                             |
+| +     | adds additional options                           |
+| PHB   | Player's Handbook                                 |
+| MM    | Monster Manual                                    |
+| EE    | Elemental Evil Player's Companion                 |
+| SCAG  | Sword Coast Adventurer's Guide                    |
+| DMG   | Dungeon Master's Guide                            |
+| VGtM  | Volo's Guide to Monsters                          |
+| XGtE  | Xanathar's Guide to Everything                    |
+| MToF  | Mordenkainen's Tome of Foes                       |
+| GGtR  | Guildmasters' Guide to Ravnica                    |
+| AI    | Acquisitions Incorporated                         |
+| ERLW  | Eberron: Rising from the Last War                 |
+| EGtW  | Explorer's Guide to Wildemount                    |
+| MOoT  | Mythic Odysseys of Theros                         |
+| TCoE  | Tasha's Cauldron of Everything                    |
+| VRGR  | Van Richten's Guide to Ravenloft                  |
+| FToD  | Fizban's Treasury of Dragons                      |
+| SCoC  | Strixhaven: A Curriculum of Chaos                 |
+| MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|Volo|MToF|Ravnica|
-|-------------------------------|---|---|---|---|----|---|----|----|-------|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|
 | **Aasimar**                   |   |   |   |   |    | O | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |
 | - Protector Aasimar           |   |   |   |   |    |   | X  |
 | - Scourge Aasimar             |   |   |   |   |    |   | X  |
 | **Aarakocra**                 |   |   |   | X |
 | **Bugbear**                   |   |   |   |   |    |   | X  |
-| **Centaur**                   |   |   |   |   |    |   |    |    | X     |
+| **Centaur**                   |   |   |   |   |    |   |    |    | X  |
 | **Dragonborn**                |   | X | X |
 | **Dwarf**                     | X | X | X |
 | - Duegar                      |   |   |   |   |    |   |    | X  |
@@ -42,7 +60,7 @@
 | - Deep Gnome (Svirfneblin)    |   |   |   | X | X  |   |    | *  |
 | - Forest Gnome                |   |   | X |
 | - Rock Gnome                  |   | X | X |
-| **Goblin**                    |   |   |   |   |    |   | X  |    | X     |
+| **Goblin**                    |   |   |   |   |    |   | X  |    | X  |
 | **Goliath**                   |   |   |   | X |    |   | X  |
 | **Half-Elf**                  |   | X | X |
 | **Half-Orc**                  |   | X | X |
@@ -54,10 +72,10 @@
 | **Kenku**                     |   |   |   |   |    |   | X  |
 | **Kobold**                    |   |   |   |   |    |   | X  |
 | **Lizardfolk**                |   |   |   |   |    |   | X  |
-| **Loxodon**                   |   |   |   |   |    |   |    |    | X     |
-| **Minotaur**                  |   |   |   |   |    |   |    |    | X     |
+| **Loxodon**                   |   |   |   |   |    |   |    |    | X  |
+| **Minotaur**                  |   |   |   |   |    |   |    |    | X  |
 | **Orc**                       |   |   |   |   |    |   | X  |
-| **Simic Hybrid**              |   |   |   |   |    |   |    |    | X     |
+| **Simic Hybrid**              |   |   |   |   |    |   |    |    | X  |
 | **Tabaxi**                    |   |   |   |   |    |   | X  |
 | **Tiefling**                  |   | X | X |
 | - Asmodeus                    |   |   |   |   |    |   |    | X  |
@@ -70,12 +88,13 @@
 | - Mephistopheles              |   |   |   |   |    |   |    | X  |
 | - Zariel                      |   |   |   |   |    |   |    | X  |
 | **Triton**                    |   |   |   |   |    |   | X  |
-| **Vedalken**                  |   |   |   |   |    |   |    |    | X     |
+| **Vedalken**                  |   |   |   |   |    |   |    |    | X  |
+| **Verdan**                    |   |   |   |   |    |   |    |    |    | X |
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|Ravnica|
-|-----------------------------------|---|---|---|----|---|----|-------|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|
+|-----------------------------------|---|---|---|----|---|----|----|
 | **Barbarian**                     |   | X | X |
 | - Path of the Ancestral Guardian  |   |   |   |    |   | X  |
 | - Path of the Battlerager         |   |   |   | X  |
@@ -98,13 +117,13 @@
 | - Life Domain                     | X | X | X |
 | - Light Domain                    |   |   | X |
 | - Nature Domain                   |   |   | X |
-| - Order Domain                    |   |   |   |    |   |    | X     |
+| - Order Domain                    |   |   |   |    |   |    | X  |
 | - Tempest Domain                  |   |   | X |
 | - Trickery Domain                 |   |   | X |
 | - War Domain                      |   |   | X |
 | **Druid**                         |   | X | X |
 | - Circle of Dreams                |   |   |   |    |   | X  |
-| - Circle of Spores                |   |   |   |    |   |    | X     |
+| - Circle of Spores                |   |   |   |    |   |    | X  |
 | - Circle of the Land              |   | X | X |
 | - Circle of the Moon              |   |   | X |
 | - Circle of the Shepherd          |   |   |   |    |   | X  |
@@ -172,43 +191,48 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                           |PBR|SRD|PHB|SCAG|Ravnica|
-|---------------------------|---|---|---|----|-------|
-| **Acolyte**               | X | X | X |
-| **Azorius Functionary**   |   |   |   |    | X     |
-| **Boros Legionnaire**     |   |   |   |    | X     |
-| **Charlatan**             |   |   | X |
-| **City Watch**            |   |   |   | X  |
-| **Clan Crafter**          |   |   |   | X  |
-| **Cloistered Scholar**    |   |   |   | X  |
-| **Courtier**              |   |   |   | X  |
-| **Criminal**              | X |   | X |
-| **Dimir Operative**       |   |   |   |    | X     |
-| **Entertainer**           |   |   | X |
-| **Faction Agent**         |   |   |   | X  |
-| **Far Traveler**          |   |   |   | X  |
-| **Folk Hero**             | X |   | X |
-| **Golgari Agent**         |   |   |   |    | X     |
-| **Gruul Anarch**          |   |   |   |    | X     |
-| **Guild Artisan**         |   |   | X |
-| **Hermit**                |   |   | X |
-| **Inheritor**             |   |   |   | X  |
-| **Izzet Engineer**        |   |   |   |    | X     |
-| **Knight of the Order**   |   |   |   | X  |
-| **Mercenary Veteran**     |   |   |   | X  |
-| **Noble**                 | X |   | X |
-| **Orzhov Representative** |   |   |   |    | X     |
-| **Outlander**             |   |   | X |
-| **Rakdos Cultist**        |   |   |   |    | X     |
-| **Sage**                  | X |   | X |
-| **Sailor**                |   |   | X |
-| **Selesnya Initiate**     |   |   |   |    | X     |
-| **Simic Scientist**       |   |   |   |    | X     |
-| **Soldier**               | X |   | X |
-| **Urban Bounty Hunter**   |   |   |   | X  |
-| **Urchin**                |   |   | X |
-| **Uthgardt Tribe Member** |   |   |   | X  |
-| **Waterdhavian Noble**    |   |   |   | X  |
+|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |
+|-----------------------------------|---|---|---|----|----|---|
+| **Acolyte**                       | X | X | X |
+| **Azorius Functionary**           |   |   |   |    | X  |
+| **Boros Legionnaire**             |   |   |   |    | X  |
+| **Celebrity Adventurer's Scion**  |   |   |   |    |    | X |
+| **Charlatan**                     |   |   | X |
+| **City Watch**                    |   |   |   | X  |
+| **Clan Crafter**                  |   |   |   | X  |
+| **Cloistered Scholar**            |   |   |   | X  |
+| **Courtier**                      |   |   |   | X  |
+| **Criminal**                      | X |   | X |
+| **Dimir Operative**               |   |   |   |    | X  |
+| **Entertainer**                   |   |   | X |
+| **Faction Agent**                 |   |   |   | X  |
+| **Failed Merchant**               |   |   |   |    |    | X |
+| **Far Traveler**                  |   |   |   | X  |
+| **Folk Hero**                     | X |   | X |
+| **Gambler**                       |   |   |   |    |    | X |
+| **Golgari Agent**                 |   |   |   |    | X  |
+| **Gruul Anarch**                  |   |   |   |    | X  |
+| **Guild Artisan**                 |   |   | X |
+| **Hermit**                        |   |   | X |
+| **Inheritor**                     |   |   |   | X  |
+| **Izzet Engineer**                |   |   |   |    | X  |
+| **Knight of the Order**           |   |   |   | X  |
+| **Mercenary Veteran**             |   |   |   | X  |
+| **Noble**                         | X |   | X |
+| **Orzhov Representative**         |   |   |   |    | X  |
+| **Outlander**                     |   |   | X |
+| **Plaintiff**                     |   |   |   |    |    | X |
+| **Rakdos Cultist**                |   |   |   |    | X  |
+| **Rival Intern**                  |   |   |   |    |    | X |
+| **Sage**                          | X |   | X |
+| **Sailor**                        |   |   | X |
+| **Selesnya Initiate**             |   |   |   |    | X  |
+| **Simic Scientist**               |   |   |   |    | X  |
+| **Soldier**                       | X |   | X |
+| **Urban Bounty Hunter**           |   |   |   | X  |
+| **Urchin**                        |   |   | X |
+| **Uthgardt Tribe Member**         |   |   |   | X  |
+| **Waterdhavian Noble**            |   |   |   | X  |
 
 ## Feats
 |                           |PHB|EE |SCAG|XGtE|MToF|
