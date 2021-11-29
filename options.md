@@ -26,15 +26,16 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |
-|-------------------------------|---|---|---|---|----|---|----|----|----|---|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|
 | **Aasimar**                   |   |   |   |   |    | O | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |
 | - Protector Aasimar           |   |   |   |   |    |   | X  |
 | - Scourge Aasimar             |   |   |   |   |    |   | X  |
 | **Aarakocra**                 |   |   |   | X |
-| **Bugbear**                   |   |   |   |   |    |   | X  |
+| **Bugbear**                   |   |   |   |   |    |   | X  |    |    |   | X  |
 | **Centaur**                   |   |   |   |   |    |   |    |    | X  |
+| **Changeling**                |   |   |   |   |    |   |    |    |    |   | X  |
 | **Dragonborn**                |   | X | X |
 | **Dwarf**                     | X | X | X |
 | - Duegar                      |   |   |   |   |    |   |    | X  |
@@ -60,21 +61,27 @@
 | - Deep Gnome (Svirfneblin)    |   |   |   | X | X  |   |    | *  |
 | - Forest Gnome                |   |   | X |
 | - Rock Gnome                  |   | X | X |
-| **Goblin**                    |   |   |   |   |    |   | X  |    | X  |
+| **Goblin**                    |   |   |   |   |    |   | X  |    | X  |   | X  |
 | **Goliath**                   |   |   |   | X |    |   | X  |
 | **Half-Elf**                  |   | X | X |
 | **Half-Orc**                  |   | X | X |
 | **Halfling**                  | X | X | X |
 | - Lightfoot Halfling          | X | X | X |
 | - Stout Halfling              | X |   | X |
-| **Hobgoblin**                 |   |   |   |   |    |   | X  |
+| **Hobgoblin**                 |   |   |   |   |    |   | X  |    |    |   | X  |
 | **Human**                     | X | X | X |
+| **Kalashtar**                 |   |   |   |   |    |   |    |    |    |   | X  |
 | **Kenku**                     |   |   |   |   |    |   | X  |
 | **Kobold**                    |   |   |   |   |    |   | X  |
 | **Lizardfolk**                |   |   |   |   |    |   | X  |
 | **Loxodon**                   |   |   |   |   |    |   |    |    | X  |
 | **Minotaur**                  |   |   |   |   |    |   |    |    | X  |
-| **Orc**                       |   |   |   |   |    |   | X  |
+| **Orc**                       |   |   |   |   |    |   | X  |    |    |   | X  |
+| **Shifter**                   |   |   |   |   |    |   |    |    |    |   | X  |
+| - Beasthide                   |   |   |   |   |    |   |    |    |    |   | X  |
+| - Longtooth                   |   |   |   |   |    |   |    |    |    |   | X  |
+| - Swiftstride                 |   |   |   |   |    |   |    |    |    |   | X  |
+| - Wildhunt                    |   |   |   |   |    |   |    |    |    |   | X  |
 | **Simic Hybrid**              |   |   |   |   |    |   |    |    | X  |
 | **Tabaxi**                    |   |   |   |   |    |   | X  |
 | **Tiefling**                  |   | X | X |
@@ -90,11 +97,16 @@
 | **Triton**                    |   |   |   |   |    |   | X  |
 | **Vedalken**                  |   |   |   |   |    |   |    |    | X  |
 | **Verdan**                    |   |   |   |   |    |   |    |    |    | X |
+| **Warforged**                 |   |   |   |   |    |   |    |    |    |   | X  |
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|
-|-----------------------------------|---|---|---|----|---|----|----|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|
+|-----------------------------------|---|---|---|----|---|----|----|----|
+| **Artificer**                     |   |   |   |    |   |    |    | X  |
+| - Alchemist                       |   |   |   |    |   |    |    | X  |
+| - Artillerist                     |   |   |   |    |   |    |    | X  |
+| - Battle Smith                    |   |   |   |    |   |    |    | X  |
 | **Barbarian**                     |   | X | X |
 | - Path of the Ancestral Guardian  |   |   |   |    |   | X  |
 | - Path of the Battlerager         |   |   |   | X  |
@@ -191,8 +203,8 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |
-|-----------------------------------|---|---|---|----|----|---|
+|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|
+|-----------------------------------|---|---|---|----|----|---|----|
 | **Acolyte**                       | X | X | X |
 | **Azorius Functionary**           |   |   |   |    | X  |
 | **Boros Legionnaire**             |   |   |   |    | X  |
@@ -214,6 +226,7 @@
 | **Gruul Anarch**                  |   |   |   |    | X  |
 | **Guild Artisan**                 |   |   | X |
 | **Hermit**                        |   |   | X |
+| **House Agent**                   |   |   |   |    |    |   | X  |
 | **Inheritor**                     |   |   |   | X  |
 | **Izzet Engineer**                |   |   |   |    | X  |
 | **Knight of the Order**           |   |   |   | X  |
@@ -235,8 +248,9 @@
 | **Waterdhavian Noble**            |   |   |   | X  |
 
 ## Feats
-|                           |PHB|EE |SCAG|XGtE|MToF|
-|---------------------------|---|---|----|----|----|
+|                           |PHB|EE |SCAG|XGtE|MToF|ERLW|
+|---------------------------|---|---|----|----|----|----|
+| **Aberrant Dragonmark**   |   |   |    |    |    | X  |
 | **Alert**                 | X |
 | **Athlete**               | X |
 | **Actor**                 | X |
@@ -279,6 +293,7 @@
 | **Polearm Master**        | X |
 | **Prodigy**               |   |   |    | X  |
 | **Resilient**             | X |
+| **Revenant Blade**        |   |   |    |    |    | X  |
 | **Ritual Caster**         | X |
 | **Savage Attacker**       | X |
 | **Second Chance**         |   |   |    | X  |

@@ -207,7 +207,21 @@ Celebrity Adventurer's Scion, Failed Merchant, Gambler, Plaintiff, Rival Intern
 ---
 
 ## Eberron: Rising from the Last War (ERLW)
-[UNDER CONSTRUCTION]
+### Races
+- **Bugbear**
+- **Changeling**
+- **Goblin**
+- **Hobgoblin**
+- **Kalashtar**
+- **Orc**
+- **Shifter** - Subraces: Beasthide, Longtooth, Swiftstride, Wildhunt
+- **Warforged**
+### Classes
+- **Artificer** - Artificer Specialists: Alchemist, Artillerist, Battle Smith
+### Backgrounds
+House Agent
+### Feats
+Aberrant Dragonmark, Revenant Blade
 
 ---
 
