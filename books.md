@@ -89,7 +89,7 @@ Master, Skilled, Skulker, Spell Sniper, Tavern Brawler, Tough, War Caster, Weapo
 
 ## Elemental Evil Player's Companion (EE) - [PDF](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
 ### Races
-- **Aarakocra**
+- ~~**Aarakocra**~~ [Updated in EGtW]
 - **Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
 - **Gnome** - Subraces: Deep Gnome (Svirfneblin)
 - **Goliath**
@@ -121,7 +121,7 @@ Svirfneblin Magic
 
 ## Dungeon Master's Guide (DMG)
 ### Races
-~~Aasimar~~ [Updated in Volo]
+~~Aasimar~~ [Updated in VGtM]
 ### Class Options
 - **Cleric Divine Domains:** Death Domain
 - **Paladin Sacred Oaths:** Oathbreaker
@@ -139,7 +139,7 @@ Svirfneblin Magic
 - **Kenku**
 - **Kobold**
 - **Lizardfolk**
-- **Orc**
+- ~~**Orc**~~ [Updated in ERLW]
 - **Tabaxi**
 - **Triton**
 - **Yuan-ti Pureblood**
@@ -226,7 +226,27 @@ Aberrant Dragonmark, Revenant Blade
 ---
 
 ## Explorer's Guide to Wildemount (EGtW)
-[UNDER CONSTRUCTION]
+### Races
+- **Aarakocra**
+- **Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar
+- **Bugbear**
+- **Firbolg**
+- **Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
+- **Goblin**
+- **Goliath**
+- **Kenku**
+- **Orc**
+- **Tabaxi**
+- **Tortle**
+### Race Options
+- **Dragonborn Variants:** Draconblood, Ravenite
+- **Elf Subraces:** Pallid Elf, Sea Elf
+- **Halfling Subraces:** Lotusden Halfling
+### Class Options
+- **Fighter Martial Archetypes:** Echo Knight
+- **Wizard Arcane Traditions:** Chronurgy Magic, Graviturgy Magic
+### Backgrounds
+Grinner, Volstrucker Agent
 
 ---
 

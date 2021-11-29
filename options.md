@@ -26,17 +26,19 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|
-|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|
-| **Aasimar**                   |   |   |   |   |    | O | X  |
-| - Fallen Aasimar              |   |   |   |   |    |   | X  |
-| - Protector Aasimar           |   |   |   |   |    |   | X  |
-| - Scourge Aasimar             |   |   |   |   |    |   | X  |
-| **Aarakocra**                 |   |   |   | X |
-| **Bugbear**                   |   |   |   |   |    |   | X  |    |    |   | X  |
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|
+| **Aarakocra**                 |   |   |   | O |    |   |    |    |    |   |    | X  |
+| **Aasimar**                   |   |   |   |   |    | O | X  |    |    |   |    | X  |
+| - Fallen Aasimar              |   |   |   |   |    |   | X  |    |    |   |    | X  |
+| - Protector Aasimar           |   |   |   |   |    |   | X  |    |    |   |    | X  |
+| - Scourge Aasimar             |   |   |   |   |    |   | X  |    |    |   |    | X  |
+| **Bugbear**                   |   |   |   |   |    |   | X  |    |    |   | X  | X  |
 | **Centaur**                   |   |   |   |   |    |   |    |    | X  |
 | **Changeling**                |   |   |   |   |    |   |    |    |    |   | X  |
 | **Dragonborn**                |   | X | X |
+| - Draconblood                 |   |   |   |   |    |   |    |    |    |   |    | X  |
+| - Ravenite                    |   |   |   |   |    |   |    |    |    |   |    | X  |
 | **Dwarf**                     | X | X | X |
 | - Duegar                      |   |   |   |   |    |   |    | X  |
 | - Hill Dwarf                  | X | X | X |
@@ -45,15 +47,16 @@
 | - Dark Elf (Drow)             |   |   | X |
 | - Eladrin                     |   |   |   |   |    |   |    | X  |
 | - High Elf                    | X | X | X |
-| - Sea Elf                     |   |   |   |   |    |   |    | X  |
+| - Pallid Elf                  |   |   |   |   |    |   |    |    |    |   |    | X  |
+| - Sea Elf                     |   |   |   |   |    |   |    | X  |    |   |    | X  |
 | - Shadar-kai                  |   |   |   |   |    |   |    | X  |
 | - Wood Elf                    | X |   | X |
-| **Firbolg**                   |   |   |   |   |    |   | X  |
-| **Genasi**                    |   |   |   | X |
-| - Air Genasi                  |   |   |   | X |
-| - Earth Genasi                |   |   |   | X |
-| - Fire Genasi                 |   |   |   | X |
-| - Water Genasi                |   |   |   | X |
+| **Firbolg**                   |   |   |   |   |    |   | X  |    |    |   |    | X  |
+| **Genasi**                    |   |   |   | X |    |   |    |    |    |   |    | X  |
+| - Air Genasi                  |   |   |   | X |    |   |    |    |    |   |    | X  |
+| - Earth Genasi                |   |   |   | X |    |   |    |    |    |   |    | *  |
+| - Fire Genasi                 |   |   |   | X |    |   |    |    |    |   |    | X  |
+| - Water Genasi                |   |   |   | X |    |   |    |    |    |   |    | X  |
 | **Gith**                      |   |   |   |   |    |   |    | X  |
 | - Githyanki                   |   |   |   |   |    |   |    | X  |
 | - Githzerai                   |   |   |   |   |    |   |    | X  |
@@ -61,29 +64,30 @@
 | - Deep Gnome (Svirfneblin)    |   |   |   | X | X  |   |    | *  |
 | - Forest Gnome                |   |   | X |
 | - Rock Gnome                  |   | X | X |
-| **Goblin**                    |   |   |   |   |    |   | X  |    | X  |   | X  |
-| **Goliath**                   |   |   |   | X |    |   | X  |
+| **Goblin**                    |   |   |   |   |    |   | X  |    | X  |   | X  | X  |
+| **Goliath**                   |   |   |   | X |    |   | X  |    |    |   |    | X  |
 | **Half-Elf**                  |   | X | X |
 | **Half-Orc**                  |   | X | X |
 | **Halfling**                  | X | X | X |
 | - Lightfoot Halfling          | X | X | X |
+| - Lotusden Halfling           |   |   |   |   |    |   |    |    |    |   |    | X  |
 | - Stout Halfling              | X |   | X |
-| **Hobgoblin**                 |   |   |   |   |    |   | X  |    |    |   | X  |
+| **Hobgoblin**                 |   |   |   |   |    |   | X  |    |    |   | X  | X  |
 | **Human**                     | X | X | X |
 | **Kalashtar**                 |   |   |   |   |    |   |    |    |    |   | X  |
-| **Kenku**                     |   |   |   |   |    |   | X  |
+| **Kenku**                     |   |   |   |   |    |   | X  |    |    |   |    | X  |
 | **Kobold**                    |   |   |   |   |    |   | X  |
 | **Lizardfolk**                |   |   |   |   |    |   | X  |
 | **Loxodon**                   |   |   |   |   |    |   |    |    | X  |
 | **Minotaur**                  |   |   |   |   |    |   |    |    | X  |
-| **Orc**                       |   |   |   |   |    |   | X  |    |    |   | X  |
+| **Orc**                       |   |   |   |   |    |   | O  |    |    |   | X  | X  |
 | **Shifter**                   |   |   |   |   |    |   |    |    |    |   | X  |
 | - Beasthide                   |   |   |   |   |    |   |    |    |    |   | X  |
 | - Longtooth                   |   |   |   |   |    |   |    |    |    |   | X  |
 | - Swiftstride                 |   |   |   |   |    |   |    |    |    |   | X  |
 | - Wildhunt                    |   |   |   |   |    |   |    |    |    |   | X  |
 | **Simic Hybrid**              |   |   |   |   |    |   |    |    | X  |
-| **Tabaxi**                    |   |   |   |   |    |   | X  |
+| **Tabaxi**                    |   |   |   |   |    |   | X  |    |    |   |    | X  |
 | **Tiefling**                  |   | X | X |
 | - Asmodeus                    |   |   |   |   |    |   |    | X  |
 | - Baalzebul                   |   |   |   |   |    |   |    | X  |
@@ -94,6 +98,7 @@
 | - Mammon                      |   |   |   |   |    |   |    | X  |
 | - Mephistopheles              |   |   |   |   |    |   |    | X  |
 | - Zariel                      |   |   |   |   |    |   |    | X  |
+| **Tortle**                    |   |   |   |   |    |   |    |    |    |   |    | X  |
 | **Triton**                    |   |   |   |   |    |   | X  |
 | **Vedalken**                  |   |   |   |   |    |   |    |    | X  |
 | **Verdan**                    |   |   |   |   |    |   |    |    |    | X |
@@ -101,8 +106,8 @@
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|
-|-----------------------------------|---|---|---|----|---|----|----|----|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|
+|-----------------------------------|---|---|---|----|---|----|----|----|----|
 | **Artificer**                     |   |   |   |    |   |    |    | X  |
 | - Alchemist                       |   |   |   |    |   |    |    | X  |
 | - Artillerist                     |   |   |   |    |   |    |    | X  |
@@ -144,6 +149,7 @@
 | - Battle Master                   |   |   | X |
 | - Cavalier                        |   |   |   |    |   | X  |
 | - Champion                        | X | X | X |
+| - Echo Knight                     |   |   |   |    |   |    |    |    | X  |
 | - Eldritch Knight                 |   |   | X |
 | - Purple Dragon Knight            |   |   |   | X  |
 | - Samurai                         |   |   |   |    |   | X  |
@@ -192,6 +198,8 @@
 | - The Undying                     |   |   |   | X  |
 | **Wizard**                        | X | X | X |
 | - Bladesinging                    |   |   |   | X  |
+| - Chronurgy Magic                 |   |   |   |    |   |    |    |    | X  |
+| - Graviturgy Magic                |   |   |   |    |   |    |    |    | X  |
 | - School of Abjuration            |   |   | X |
 | - School of Conjuration           |   |   | X |
 | - School of Divination            |   |   | X |
@@ -203,8 +211,8 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|
-|-----------------------------------|---|---|---|----|----|---|----|
+|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|
+|-----------------------------------|---|---|---|----|----|---|----|----|
 | **Acolyte**                       | X | X | X |
 | **Azorius Functionary**           |   |   |   |    | X  |
 | **Boros Legionnaire**             |   |   |   |    | X  |
@@ -223,6 +231,7 @@
 | **Folk Hero**                     | X |   | X |
 | **Gambler**                       |   |   |   |    |    | X |
 | **Golgari Agent**                 |   |   |   |    | X  |
+| **Grinner**                       |   |   |   |    |    |   |    | X  |
 | **Gruul Anarch**                  |   |   |   |    | X  |
 | **Guild Artisan**                 |   |   | X |
 | **Hermit**                        |   |   | X |
@@ -245,6 +254,7 @@
 | **Urban Bounty Hunter**           |   |   |   | X  |
 | **Urchin**                        |   |   | X |
 | **Uthgardt Tribe Member**         |   |   |   | X  |
+| **Volstrucker Agent**             |   |   |   |    |    |   |    | X  |
 | **Waterdhavian Noble**            |   |   |   | X  |
 
 ## Feats

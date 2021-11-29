@@ -6,6 +6,6 @@ This repository is a collection of notes about what each 5th edition D&D book co
 - [Sources by Release Date](releaseDates.md)
 
 TODO:
-- Sources: ERLW, EGtW, MOoT, TCoE, VRGR, FToD, SCoC
+- Sources: MOoT, TCoE, VRGR, FToD, SCoC
 - Spells
 - Warlock Eldritch Invocations
