@@ -26,15 +26,15 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|
-|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|
 | **Aarakocra**                 |   |   |   | O |    |   |    |    |    |   |    | X  |
 | **Aasimar**                   |   |   |   |   |    | O | X  |    |    |   |    | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |    |    |   |    | X  |
 | - Protector Aasimar           |   |   |   |   |    |   | X  |    |    |   |    | X  |
 | - Scourge Aasimar             |   |   |   |   |    |   | X  |    |    |   |    | X  |
 | **Bugbear**                   |   |   |   |   |    |   | X  |    |    |   | X  | X  |
-| **Centaur**                   |   |   |   |   |    |   |    |    | X  |
+| **Centaur**                   |   |   |   |   |    |   |    |    | X  |   |    |    | X  |
 | **Changeling**                |   |   |   |   |    |   |    |    |    |   | X  |
 | **Dragonborn**                |   | X | X |
 | - Draconblood                 |   |   |   |   |    |   |    |    |    |   |    | X  |
@@ -77,10 +77,12 @@
 | **Kalashtar**                 |   |   |   |   |    |   |    |    |    |   | X  |
 | **Kenku**                     |   |   |   |   |    |   | X  |    |    |   |    | X  |
 | **Kobold**                    |   |   |   |   |    |   | X  |
+| **Leonin**                    |   |   |   |   |    |   |    |    |    |   |    |    | X  |
 | **Lizardfolk**                |   |   |   |   |    |   | X  |
 | **Loxodon**                   |   |   |   |   |    |   |    |    | X  |
-| **Minotaur**                  |   |   |   |   |    |   |    |    | X  |
+| **Minotaur**                  |   |   |   |   |    |   |    |    | X  |   |    |    | X  |
 | **Orc**                       |   |   |   |   |    |   | O  |    |    |   | X  | X  |
+| **Satyr**                     |   |   |   |   |    |   |    |    |    |   |    |    | X  |
 | **Shifter**                   |   |   |   |   |    |   |    |    |    |   | X  |
 | - Beasthide                   |   |   |   |   |    |   |    |    |    |   | X  |
 | - Longtooth                   |   |   |   |   |    |   |    |    |    |   | X  |
@@ -99,15 +101,15 @@
 | - Mephistopheles              |   |   |   |   |    |   |    | X  |
 | - Zariel                      |   |   |   |   |    |   |    | X  |
 | **Tortle**                    |   |   |   |   |    |   |    |    |    |   |    | X  |
-| **Triton**                    |   |   |   |   |    |   | X  |
+| **Triton**                    |   |   |   |   |    |   | O  |    |    |   |    |    | X  |
 | **Vedalken**                  |   |   |   |   |    |   |    |    | X  |
 | **Verdan**                    |   |   |   |   |    |   |    |    |    | X |
 | **Warforged**                 |   |   |   |   |    |   |    |    |    |   | X  |
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|
-|-----------------------------------|---|---|---|----|---|----|----|----|----|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|
+|-----------------------------------|---|---|---|----|---|----|----|----|----|----|
 | **Artificer**                     |   |   |   |    |   |    |    | X  |
 | - Alchemist                       |   |   |   |    |   |    |    | X  |
 | - Artillerist                     |   |   |   |    |   |    |    | X  |
@@ -120,6 +122,7 @@
 | - Path of the Totem Warrior       |   |   | X | +  |
 | - Path of the Zealot              |   |   |   |    |   | X  |
 | **Bard**                          |   |   | X |
+| - College of Eloquence            |   |   |   |    |   |    |    |    |    | X  |
 | - College of Lore                 |   |   | X |
 | - College of Glamour              |   |   |   |    |   | X  |
 | - College of Swords               |   |   |   |    |   | X  |
@@ -164,6 +167,7 @@
 | **Paladin**                       |   | X | X |
 | - Oath of Conquest                |   |   |   |    |   | X  |
 | - Oath of Devotion                |   | X | X |
+| - Oath of Glory                   |   |   |   |    |   |    |    |    |    | X  |
 | - Oath of Redemption              |   |   |   |    |   | X  |
 | - Oath of the Ancients            |   |   | X |
 | - Oath of the Crown               |   |   |   | X  |
@@ -189,7 +193,7 @@
 | - Shadow Magic                    |   |   |   |    |   | X  |
 | - Storm Sorcery                   |   |   |   | X  |   | X  |
 | - Wild Magic                      |   |   | X |
-| **Warlock**                       |   | X | X |
+| **Warlock**                       |   | X | X |    |   | +  |
 | - The Archfey                     |   |   | X |
 | - The Celestial                   |   |   |   |    |   | X  |
 | - The Fiend                       |   | X | X |
@@ -211,9 +215,10 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|
-|-----------------------------------|---|---|---|----|----|---|----|----|
+|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|MOoT|
+|-----------------------------------|---|---|---|----|----|---|----|----|----|
 | **Acolyte**                       | X | X | X |
+| **Athlete**                       |   |   |   |    |    |   |    |    | X  |
 | **Azorius Functionary**           |   |   |   |    | X  |
 | **Boros Legionnaire**             |   |   |   |    | X  |
 | **Celebrity Adventurer's Scion**  |   |   |   |    |    | X |

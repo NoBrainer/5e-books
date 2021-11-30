@@ -72,7 +72,14 @@ Domain, War Domain
 - **Ranger** - Ranger Archetypes: Beast Master, Hunter
 - **Rogue** - Roguish Archetypes: Arcane Trickster, Assassin, Thief
 - **Sorcerer** - Sorcerous Origins: Draconic Bloodline, Wild Magic
-- **Warlock** - Otherworldly Patrons: The Archfey, The Fiend, The Great Old One
+- **Warlock**
+  - **Otherworldly Patrons:** The Archfey, The Fiend, The Great Old One
+  - **Eldritch Invocations:** Agonizing Blast, Armor of Shadows, Ascendant Step, Beast Speech, Beguiling Influence,
+    Bewitching Whispers, Book of Ancient Secrets, Chains of Carceri, Devil's Sight, Dreadful Word, Eldritch Sight,
+    Eldritch Spear, Eyes of the Rune Keeper, Fiendish Vigor, Gaze of Two Minds, Lifedrinker, Mask of Many Faces, Master
+    of Myriad Forms, Minions of Chaos, Mire the Mind, Misty Visions, One with Shadows, Otherworldly Leap, Repelling
+    Blast, Sculptor of Flesh, Sign of Ill Omen, Thief of Five Fates, Thirsting Blade, Visions of Distant Realms, Voice
+    of the Chain Master, Whispers of the Grave, Witch Sight
 - **Wizard** - Arcane Traditions: School of Abjuration, School of Conjuration, School of Divination, School of
 Enchantment, School of Evocation, School of Illusion, School of Necromancy, School of Transmutation
 ### Backgrounds
@@ -141,7 +148,7 @@ Svirfneblin Magic
 - **Lizardfolk**
 - ~~**Orc**~~ [Updated in ERLW]
 - **Tabaxi**
-- **Triton**
+- ~~**Triton**~~ [Updated in MOoT]
 - **Yuan-ti Pureblood**
 
 ---
@@ -158,7 +165,11 @@ Svirfneblin Magic
 - **Ranger Archetypes:** Gloom Stalker, Horizon Walker, Monster Slayer
 - **Roguish Archetypes:** Inquisitive, Mastermind, Scout, Swashbuckler
 - **Sorcerous Origins:** Divine Soul, Shadow Magic, Storm Sorcery
-- **Warlock Otherworldly Patrons:** The Celestial, The Hexblade
+- **Warlock**
+  - **Otherworldly Patrons:** The Celestial, The Hexblade
+  - **Eldritch Invocations:** Aspect of the Moon, Cloak of Flies, Eldritch Smite, Ghostly Gaze, Gift of the Depths, Gift
+    of the Ever-Living Ones, Grasp of Hadar, Improved Pact Weapon, Lance of Lethargy, Maddening Hex, Relentless Hex,
+    Shroud of Shadow, Tomb of Levistus, Trickster's Escape
 - **Wizard Arcane Traditions:** War Magic
 ### Feats
 Bountiful Luck, Dragon Fear, Dragon Hide, Drow High Magic, Dwarven Fortitude, Elven Accuracy, Fade Away, Fey
@@ -251,7 +262,17 @@ Grinner, Volstrucker Agent
 ---
 
 ## Mythic Odysseys of Theros (MOoT)
-[UNDER CONSTRUCTION]
+### Races
+- **Centaur**
+- **Leonin**
+- **Minotaur**
+- **Satyr**
+- **Triton**
+### Class Options
+- **Bard Colleges:** College of Eloquence
+- **Paladin Sacred Oaths:** Oath of Glory
+### Backgrounds
+Athlete
 
 ---
 
