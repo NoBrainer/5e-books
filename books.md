@@ -228,7 +228,7 @@ Celebrity Adventurer's Scion, Failed Merchant, Gambler, Plaintiff, Rival Intern
 - **Shifter** - Subraces: Beasthide, Longtooth, Swiftstride, Wildhunt
 - **Warforged**
 ### Classes
-- **Artificer** - Artificer Specialists: Alchemist, Artillerist, Battle Smith
+- ~~**Artificer**~~ - Artificer Specialists: Alchemist, ~~Artillerist~~, ~~Battle Smith~~ [Updated in TCoE]
 ### Backgrounds
 House Agent
 ### Feats
@@ -277,7 +277,76 @@ Athlete
 ---
 
 ## Tasha's Cauldron of Everything (TCoE)
-[UNDER CONSTRUCTION]
+### Classes
+- **Artificer**
+### Class Options
+- **Artificer**
+  - **Artificer Specialists:** Alchemist, Armorer, Artillerist, Battle Smith
+  - **Artificer Infusions**
+- **Barbarian**
+  - **Optional Class Features:** Primal Knowledge, Instinctive Pounce
+  - **Primal Paths:** Path of the Beast, Path of Wild Magic
+- **Bard**
+  - **Optional Class Features:** Additional Bard Spells, Magical Inspiration, Bardic Versatility
+  - **Bard Colleges:** College of Creation, College of Eloquence
+- **Cleric**
+  - **Optional Class Features:** Additional Cleric Spells, Harness Divine Power, Cantrip Versatility, Blessed Strikes,
+  - **Divine Domains:** Order Domain, Peace Domain, Twilight Domain
+- **Druid**
+  - **Optional Class Features:** Additional Druid Spells, Wild Companion, Cantrip Versatility
+  - **Druid Circles:** Circle of Spores, Circle of Stars, Circle of Wildfire
+- **Fighter**
+  - **Optional Class Features:**
+    - **Fighting Style Options:** Blind Fighting, Interception, Superior Technique, Thrown Weapon Fighting, Unarmed Fighting
+    - **Martial Versatility**
+    - **Maneuver Options:** Ambush, Bait and Switch, Brace, Commanding Presence, Grappling Strike, Quick Toss, Tactical
+      Assessment
+  - **Martial Archetypes:** Psi Warrior, Rune Knight
+- **Monk**
+  - **Optional Class Features:** Dedicated Weapon, Ki-Fueled Attack, Quickened Healing, Focused Aim
+  - **Monastic Traditions:** Way of Mercy, Way of the Astral Self
+- **Paladin**
+  - **Optional Class Features:**
+    - **Fighting Style Options:** Blessed Warrior, Blind Fighting, Interception
+    - **Harness Divine Power**
+    - **Martial Versatility**
+  - **Sacred Oaths:** Oath of Glory, Oath of the Watchers
+- **Ranger**
+  - **Optional Class Features:**
+    - **Additional Ranger Spells**
+    - **Deft Explorer**
+    - **Favored Foe**
+    - **Fighting Style Options:** Blind Fighting, Druidic Warrior, Thrown Weapon Fighting
+    - **Spellcasting Focus**
+    - **Primal Awareness**
+    - **Martial Versatility**
+    - **Nature's Veil**
+  - **Ranger Archetypes:** Fey Wanderer, Swarmkeeper
+  - **Beast Master Companions:** Beast of the Land, Beast of the Sea, Beast of the Sky
+- **Rogue**
+  - **Optional Class Features:** Steady Aim
+  - **Roguish Archetypes:** Phantom, Soulknife
+- **Sorcerer**
+  - **Optional Class Features:**
+    - **Additional Sorcerer Spells**
+    - **Metamagic Options:** Seeking Spell, Transmuted Spell
+    - **Sorcerous Versatility**
+    - **Magical Guidance**
+  - **Sorcerous Origins:** Aberrant Mind, Clockwork Soul
+- **Warlock**
+  - **Optional Class Features:**
+    - **Additional Warlock Spells**
+    - **Pact Boon Options:** Pact of the Talisman
+    - **Eldritch Versatility**
+  - **Eldritch Invocation Options:** Bond of the Talisman, Eldritch Mind, Far Scribe, Gift of the Protectors, Investment
+    of the Chain Master, Protection of the Talisman, Rebuke of the Talisman, Undying Servitude
+  - **Otherworldly Patrons:** The Fathomless, The Genie
+- **Wizard**
+  - **Optional Class Features:** Additional Wizard Spells, Cantrip Formulas
+  - **Arcane Traditions:** Bladesinging, Order of Scribes
+### Feats
+Artificer Initiate, Chef, Crusher, Eldritch Adept, Fey Touched, Fighting Initiate, Gunner, Metamagic Adept, Piercer,
+Poisoner, Shadow Touched, Skill Expert, Slasher, Telekinetic, Telepathic
 
 ---
 

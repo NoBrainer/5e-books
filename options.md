@@ -108,27 +108,31 @@
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|
-|-----------------------------------|---|---|---|----|---|----|----|----|----|----|
-| **Artificer**                     |   |   |   |    |   |    |    | X  |
-| - Alchemist                       |   |   |   |    |   |    |    | X  |
-| - Artillerist                     |   |   |   |    |   |    |    | X  |
-| - Battle Smith                    |   |   |   |    |   |    |    | X  |
-| **Barbarian**                     |   | X | X |
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|TCoE|
+|-----------------------------------|---|---|---|----|---|----|----|----|----|----|----|
+| **Artificer**                     |   |   |   |    |   |    |    | O  |    |    | X  |
+| - Alchemist                       |   |   |   |    |   |    |    | X  |    |    | X  |
+| - Armorer                         |   |   |   |    |   |    |    |    |    |    | X  |
+| - Artillerist                     |   |   |   |    |   |    |    | O  |    |    | X  |
+| - Battle Smith                    |   |   |   |    |   |    |    | O  |    |    | X  |
+| **Barbarian**                     |   | X | X |    |   |    |    |    |    |    | +  |
 | - Path of the Ancestral Guardian  |   |   |   |    |   | X  |
 | - Path of the Battlerager         |   |   |   | X  |
+| - Path of the Beast               |   |   |   |    |   |    |    |    |    |    | X  |
 | - Path of the Berserker           |   | X | X |
 | - Path of the Storm Herald        |   |   |   |    |   | X  |
 | - Path of the Totem Warrior       |   |   | X | +  |
 | - Path of the Zealot              |   |   |   |    |   | X  |
-| **Bard**                          |   |   | X |
-| - College of Eloquence            |   |   |   |    |   |    |    |    |    | X  |
+| - Path of Wild Magic              |   |   |   |    |   |    |    |    |    |    | X  |
+| **Bard**                          |   |   | X |    |   |    |    |    |    |    | +  |
+| - College of Creation             |   |   |   |    |   |    |    |    |    |    | X  |
+| - College of Eloquence            |   |   |   |    |   |    |    |    |    | X  | X  |
 | - College of Lore                 |   |   | X |
 | - College of Glamour              |   |   |   |    |   | X  |
 | - College of Swords               |   |   |   |    |   | X  |
 | - College of Valor                |   |   | X |
 | - College of Whispers             |   |   |   |    |   | X  |
-| **Cleric**                        | X | X | X |
+| **Cleric**                        | X | X | X |    |   |    |    |    |    |    | +  |
 | - Arcana Domain                   |   |   |   | X  |   |
 | - Death Domain                    |   |   |   |    | X |
 | - Forge Domain                    |   |   |   |    |   | X  |
@@ -137,17 +141,21 @@
 | - Life Domain                     | X | X | X |
 | - Light Domain                    |   |   | X |
 | - Nature Domain                   |   |   | X |
-| - Order Domain                    |   |   |   |    |   |    | X  |
+| - Order Domain                    |   |   |   |    |   |    | X  |    |    |    | X  |
+| - Peace Domain                    |   |   |   |    |   |    |    |    |    |    | X  |
 | - Tempest Domain                  |   |   | X |
 | - Trickery Domain                 |   |   | X |
+| - Twilight Domain                 |   |   |   |    |   |    |    |    |    |    | X  |
 | - War Domain                      |   |   | X |
-| **Druid**                         |   | X | X |
+| **Druid**                         |   | X | X |    |   |    |    |    |    |    | +  |
 | - Circle of Dreams                |   |   |   |    |   | X  |
-| - Circle of Spores                |   |   |   |    |   |    | X  |
+| - Circle of Spores                |   |   |   |    |   |    | X  |    |    |    | +  |
+| - Circle of Stars                 |   |   |   |    |   |    |    |    |    |    | X  |
 | - Circle of the Land              |   | X | X |
 | - Circle of the Moon              |   |   | X |
 | - Circle of the Shepherd          |   |   |   |    |   | X  |
-| **Fighter**                       | X | X | X |
+| - Circle of Wildfire              |   |   |   |    |   |    |    |    |    |    | X  |
+| **Fighter**                       | X | X | X |    |   |    |    |    |    |    | +  |
 | - Arcane Archer                   |   |   |   |    |   | X  |
 | - Battle Master                   |   |   | X |
 | - Cavalier                        |   |   |   |    |   | X  |
@@ -155,55 +163,69 @@
 | - Echo Knight                     |   |   |   |    |   |    |    |    | X  |
 | - Eldritch Knight                 |   |   | X |
 | - Purple Dragon Knight            |   |   |   | X  |
+| - Psi Warrior                     |   |   |   |    |   |    |    |    |    |    | X  |
+| - Rune Knight                     |   |   |   |    |   |    |    |    |    |    | X  |
 | - Samurai                         |   |   |   |    |   | X  |
-| **Monk**                          |   | X | X |
+| **Monk**                          |   | X | X |    |   |    |    |    |    |    | +  |
+| - Way of Mercy                    |   |   |   |    |   |    |    |    |    |    | X  |
 | - Way of Shadow                   |   |   | X |
+| - Way of the Astral Self          |   |   |   |    |   |    |    |    |    |    | X  |
 | - Way of the Drunken Master       |   |   |   |    |   | X  |
 | - Way of the Four Elements        |   |   | X |
 | - Way of the Kensei               |   |   |   |    |   | X  |
 | - Way of the Long Death           |   |   |   | X  |
 | - Way of the Open Hand            |   | X | X |
 | - Way of the Sun Soul             |   |   |   | O  |   | X  |
-| **Paladin**                       |   | X | X |
+| **Paladin**                       |   | X | X |    |   |    |    |    |    |    | +  |
 | - Oath of Conquest                |   |   |   |    |   | X  |
 | - Oath of Devotion                |   | X | X |
-| - Oath of Glory                   |   |   |   |    |   |    |    |    |    | X  |
+| - Oath of Glory                   |   |   |   |    |   |    |    |    |    | X  | X  |
 | - Oath of Redemption              |   |   |   |    |   | X  |
 | - Oath of the Ancients            |   |   | X |
 | - Oath of the Crown               |   |   |   | X  |
+| - Oath of the Watchers            |   |   |   |    |   |    |    |    |    |    | X  |
 | - Oath of Vengeance               |   |   | X |
 | - Oathbreaker                     |   |   |   |    | X |
-| **Ranger**                        |   | X | X |
+| **Ranger**                        |   | X | X |    |   |    |    |    |    |    | +  |
 | - Beast Master                    |   |   | X |
+| - Fey Wanderer                    |   |   |   |    |   |    |    |    |    |    | X  |
 | - Gloom Stalker                   |   |   |   |    |   | X  |
 | - Horizon Walker                  |   |   |   |    |   | X  |
 | - Hunter                          |   | X | X |
 | - Monster Slayer                  |   |   |   |    |   | X  |
-| **Rogue**                         | X | X | X |
+| - Swarmkeeper                     |   |   |   |    |   |    |    |    |    |    | X  |
+| **Rogue**                         | X | X | X |    |   |    |    |    |    |    | +  |
 | - Arcane Trickster                |   |   | X |
 | - Assassin                        |   |   | X |
 | - Inquisitive                     |   |   |   |    |   | X  |
 | - Mastermind                      |   |   |   | X  |   | X  |
+| - Phantom                         |   |   |   |    |   |    |    |    |    |    | X  |
 | - Scout                           |   |   |   |    |   | X  |
+| - Soulknife                       |   |   |   |    |   |    |    |    |    |    | X  |
 | - Swashbuckler                    |   |   |   | O  |   | X  |
 | - Thief                           | X | X | X |
-| **Sorcerer**                      |   | X | X |
+| **Sorcerer**                      |   | X | X |    |   |    |    |    |    |    | +  |
+| - Aberrant Mind                   |   |   |   |    |   |    |    |    |    |    | X  |
+| - Clockwork Soul                  |   |   |   |    |   |    |    |    |    |    | X  |
 | - Divine Soul                     |   |   |   |    |   | X  |
 | - Draconic Bloodline              |   | X | X |
 | - Shadow Magic                    |   |   |   |    |   | X  |
 | - Storm Sorcery                   |   |   |   | X  |   | X  |
 | - Wild Magic                      |   |   | X |
-| **Warlock**                       |   | X | X |    |   | +  |
+| **Warlock**                       |   | X | X |    |   | +  |    |    |    |    | +  |
 | - The Archfey                     |   |   | X |
 | - The Celestial                   |   |   |   |    |   | X  |
+| - The Fathomless                  |   |   |   |    |   |    |    |    |    |    | X  |
 | - The Fiend                       |   | X | X |
+| - The Genie                       |   |   |   |    |   |    |    |    |    |    | X  |
 | - The Great Old One               |   |   | X |
 | - The Hexblade                    |   |   |   |    |   | X  |
 | - The Undying                     |   |   |   | X  |
-| **Wizard**                        | X | X | X |
-| - Bladesinging                    |   |   |   | X  |
+| **Wizard**                        | X | X | X |    |   |    |    |    |    |    | +  |
+| - Bladesinging                    |   |   |   | X  |   |    |    |    |    |    | X  |
 | - Chronurgy Magic                 |   |   |   |    |   |    |    |    | X  |
 | - Graviturgy Magic                |   |   |   |    |   |    |    |    | X  |
+| - Order of Scribes                |   |   |   |    |   |    |    |    |    |    | X  |
 | - School of Abjuration            |   |   | X |
 | - School of Conjuration           |   |   | X |
 | - School of Divination            |   |   | X |
@@ -263,15 +285,18 @@
 | **Waterdhavian Noble**            |   |   |   | X  |
 
 ## Feats
-|                           |PHB|EE |SCAG|XGtE|MToF|ERLW|
-|---------------------------|---|---|----|----|----|----|
+|                           |PHB|EE |SCAG|XGtE|MToF|ERLW|TCoE|
+|---------------------------|---|---|----|----|----|----|----|
 | **Aberrant Dragonmark**   |   |   |    |    |    | X  |
 | **Alert**                 | X |
+| **Artificer Initiate**    |   |   |    |    |    |    | X  |
 | **Athlete**               | X |
 | **Actor**                 | X |
 | **Bountiful**             |   |   |    | X  |
 | **Charger**               | X |
+| **Chef**                  |   |   |    |    |    |    | X  |
 | **Crossbow Expert**       | X |
+| **Crusher**               |   |   |    |    |    |    | X  |
 | **Defensive Duelist**     | X |
 | **Dragon Fear**           |   |   |    | X  |
 | **Dragon Hide**           |   |   |    | X  |
@@ -280,13 +305,17 @@
 | **Dungeon Delver**        | X |
 | **Durable**               | X |
 | **Dwarven Fortitude**     |   |   |    | X  |
+| **Eldritch Adept**        |   |   |    |    |    |    | X  |
 | **Elemental Adept**       | X |
 | **Elven Accuracy**        |   |   |    | X  |
 | **Fade Away**             |   |   |    | X  |
 | **Fey Teleportation**     |   |   |    | X  |
+| **Fey Touched**           |   |   |    |    |    |    | X  |
+| **Fighting Initiate**     |   |   |    |    |    |    | X  |
 | **Flames of Phlegethos**  |   |   |    | X  |
 | **Grappler**              | X |
 | **Great Weapon Master**   | X |
+| **Gunner**                |   |   |    |    |    |    | X  |
 | **Healer**                | X |
 | **Heavily Armored**       | X |
 | **Heavy Armor Master**    | X |
@@ -300,11 +329,14 @@
 | **Magic Initiate**        | X |
 | **Martial Adept**         | X |
 | **Medium Armor Master**   | X |
+| **Metamagic Adept**       |   |   |    |    |    |    | X  |
 | **Mobile**                | X |
 | **Moderately Armored**    | X |
 | **Mounted Combatant**     | X |
 | **Observant**             | X |
 | **Orcish Fury**           |   |   |    | X  |
+| **Piercer**               |   |   |    |    |    |    | X  |
+| **Poisoner**              |   |   |    |    |    |    | X  |
 | **Polearm Master**        | X |
 | **Prodigy**               |   |   |    | X  |
 | **Resilient**             | X |
@@ -313,14 +345,19 @@
 | **Savage Attacker**       | X |
 | **Second Chance**         |   |   |    | X  |
 | **Sentinel**              | X |
+| **Shadow Touched**        |   |   |    |    |    |    | X  |
 | **Sharpshooter**          | X |
 | **Shield Master**         | X |
+| **Skill Expert**          |   |   |    |    |    |    | X  |
 | **Skilled**               | X |
 | **Skulker**               | X |
+| **Slasher**               |   |   |    |    |    |    | X  |
 | **Spell Sniper**          | X |
 | **Squat Nimbleness**      |   |   |    | X  |
 | **Svirfneblin Magic**     |   | X | X  |    | *  |
 | **Tavern Brawler**        | X |
+| **Telekenetic**           |   |   |    |    |    |    | X  |
+| **Telepathic**            |   |   |    |    |    |    | X  |
 | **Tough**                 | X |
 | **War Caster**            | X |
 | **Weapon Master**         | X |
