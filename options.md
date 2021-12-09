@@ -26,8 +26,8 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|VRGR|
-|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|----|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|VRGR|FToD|
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|----|----|
 | **Aarakocra**                 |   |   |   | O |    |   |    |    |    |   |    | X  |
 | **Aasimar**                   |   |   |   |   |    | O | X  |    |    |   |    | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |    |    |   |    | X  |
@@ -38,7 +38,10 @@
 | **Changeling**                |   |   |   |   |    |   |    |    |    |   | X  |
 | **Dhampir**                   |   |   |   |   |    |   |    |    |    |   |    |    |    | X  |
 | **Dragonborn**                |   | X | X |
+| - Chromatic                   |   |   |   |   |    |   |    |    |    |   |    |    |    |    | X  |
 | - Draconblood                 |   |   |   |   |    |   |    |    |    |   |    | X  |
+| - Gem                         |   |   |   |   |    |   |    |    |    |   |    |    |    |    | X  |
+| - Metallic                    |   |   |   |   |    |   |    |    |    |   |    |    |    |    | X  |
 | - Ravenite                    |   |   |   |   |    |   |    |    |    |   |    | X  |
 | **Dwarf**                     | X | X | X |
 | - Duegar                      |   |   |   |   |    |   |    | X  |
@@ -111,8 +114,8 @@
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|TCoE|VRGR|
-|-----------------------------------|---|---|---|----|---|----|----|----|----|----|----|----|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|TCoE|VRGR|FToD|
+|-----------------------------------|---|---|---|----|---|----|----|----|----|----|----|----|----|
 | **Artificer**                     |   |   |   |    |   |    |    | O  |    |    | X  |
 | - Alchemist                       |   |   |   |    |   |    |    | X  |    |    | X  |
 | - Armorer                         |   |   |   |    |   |    |    |    |    |    | X  |
@@ -173,6 +176,7 @@
 | **Monk**                          |   | X | X |    |   |    |    |    |    |    | +  |
 | - Way of Mercy                    |   |   |   |    |   |    |    |    |    |    | X  |
 | - Way of Shadow                   |   |   | X |
+| - Way of the Ascendant Dragon     |   |   |   |    |   |    |    |    |    |    |    |    | X  |
 | - Way of the Astral Self          |   |   |   |    |   |    |    |    |    |    | X  |
 | - Way of the Drunken Master       |   |   |   |    |   | X  |
 | - Way of the Four Elements        |   |   | X |
@@ -192,6 +196,7 @@
 | - Oathbreaker                     |   |   |   |    | X |
 | **Ranger**                        |   | X | X |    |   |    |    |    |    |    | +  |
 | - Beast Master                    |   |   | X |
+| - Drakewarden                     |   |   |   |    |   |    |    |    |    |    |    |    | X  |
 | - Fey Wanderer                    |   |   |   |    |   |    |    |    |    |    | X  |
 | - Gloom Stalker                   |   |   |   |    |   | X  |
 | - Horizon Walker                  |   |   |   |    |   | X  |
@@ -292,80 +297,83 @@
 | **Waterdhavian Noble**            |   |   |   | X  |
 
 ## Feats
-|                           |PHB|EE |SCAG|XGtE|MToF|ERLW|TCoE|
-|---------------------------|---|---|----|----|----|----|----|
-| **Aberrant Dragonmark**   |   |   |    |    |    | X  |
-| **Alert**                 | X |
-| **Artificer Initiate**    |   |   |    |    |    |    | X  |
-| **Athlete**               | X |
-| **Actor**                 | X |
-| **Bountiful**             |   |   |    | X  |
-| **Charger**               | X |
-| **Chef**                  |   |   |    |    |    |    | X  |
-| **Crossbow Expert**       | X |
-| **Crusher**               |   |   |    |    |    |    | X  |
-| **Defensive Duelist**     | X |
-| **Dragon Fear**           |   |   |    | X  |
-| **Dragon Hide**           |   |   |    | X  |
-| **Drow High Magic**       |   |   |    | X  |
-| **Dual Wielder**          | X |
-| **Dungeon Delver**        | X |
-| **Durable**               | X |
-| **Dwarven Fortitude**     |   |   |    | X  |
-| **Eldritch Adept**        |   |   |    |    |    |    | X  |
-| **Elemental Adept**       | X |
-| **Elven Accuracy**        |   |   |    | X  |
-| **Fade Away**             |   |   |    | X  |
-| **Fey Teleportation**     |   |   |    | X  |
-| **Fey Touched**           |   |   |    |    |    |    | X  |
-| **Fighting Initiate**     |   |   |    |    |    |    | X  |
-| **Flames of Phlegethos**  |   |   |    | X  |
-| **Grappler**              | X |
-| **Great Weapon Master**   | X |
-| **Gunner**                |   |   |    |    |    |    | X  |
-| **Healer**                | X |
-| **Heavily Armored**       | X |
-| **Heavy Armor Master**    | X |
-| **Infernal Constitution** |   |   |    | X  |
-| **Inspiring Leader**      | X |
-| **Keen Mind**             | X |
-| **Lightly Armored**       | X |
-| **Linguist**              | X |
-| **Lucky**                 | X |
-| **Mage Slayer**           | X |
-| **Magic Initiate**        | X |
-| **Martial Adept**         | X |
-| **Medium Armor Master**   | X |
-| **Metamagic Adept**       |   |   |    |    |    |    | X  |
-| **Mobile**                | X |
-| **Moderately Armored**    | X |
-| **Mounted Combatant**     | X |
-| **Observant**             | X |
-| **Orcish Fury**           |   |   |    | X  |
-| **Piercer**               |   |   |    |    |    |    | X  |
-| **Poisoner**              |   |   |    |    |    |    | X  |
-| **Polearm Master**        | X |
-| **Prodigy**               |   |   |    | X  |
-| **Resilient**             | X |
-| **Revenant Blade**        |   |   |    |    |    | X  |
-| **Ritual Caster**         | X |
-| **Savage Attacker**       | X |
-| **Second Chance**         |   |   |    | X  |
-| **Sentinel**              | X |
-| **Shadow Touched**        |   |   |    |    |    |    | X  |
-| **Sharpshooter**          | X |
-| **Shield Master**         | X |
-| **Skill Expert**          |   |   |    |    |    |    | X  |
-| **Skilled**               | X |
-| **Skulker**               | X |
-| **Slasher**               |   |   |    |    |    |    | X  |
-| **Spell Sniper**          | X |
-| **Squat Nimbleness**      |   |   |    | X  |
-| **Svirfneblin Magic**     |   | X | X  |    | *  |
-| **Tavern Brawler**        | X |
-| **Telekenetic**           |   |   |    |    |    |    | X  |
-| **Telepathic**            |   |   |    |    |    |    | X  |
-| **Tough**                 | X |
-| **War Caster**            | X |
-| **Weapon Master**         | X |
-| **Wood Elf Magic**        |   |   |    | X  |
+|                                   |PHB|EE |SCAG|XGtE|MToF|ERLW|TCoE|FToD|
+|-----------------------------------|---|---|----|----|----|----|----|----|
+| **Aberrant Dragonmark**           |   |   |    |    |    | X  |
+| **Alert**                         | X |
+| **Artificer Initiate**            |   |   |    |    |    |    | X  |
+| **Athlete**                       | X |
+| **Actor**                         | X |
+| **Bountiful**                     |   |   |    | X  |
+| **Charger**                       | X |
+| **Chef**                          |   |   |    |    |    |    | X  |
+| **Crossbow Expert**               | X |
+| **Crusher**                       |   |   |    |    |    |    | X  |
+| **Defensive Duelist**             | X |
+| **Dragon Fear**                   |   |   |    | X  |
+| **Dragon Hide**                   |   |   |    | X  |
+| **Drow High Magic**               |   |   |    | X  |
+| **Dual Wielder**                  | X |
+| **Dungeon Delver**                | X |
+| **Durable**                       | X |
+| **Dwarven Fortitude**             |   |   |    | X  |
+| **Eldritch Adept**                |   |   |    |    |    |    | X  |
+| **Elemental Adept**               | X |
+| **Elven Accuracy**                |   |   |    | X  |
+| **Fade Away**                     |   |   |    | X  |
+| **Fey Teleportation**             |   |   |    | X  |
+| **Fey Touched**                   |   |   |    |    |    |    | X  |
+| **Fighting Initiate**             |   |   |    |    |    |    | X  |
+| **Flames of Phlegethos**          |   |   |    | X  |
+| **Gift of the Chromatic Dragon**  |   |   |    |    |    |    |    | X  |
+| **Gift of the Gem Dragon**        |   |   |    |    |    |    |    | X  |
+| **Gift of the Metallic Dragon**   |   |   |    |    |    |    |    | X  |
+| **Grappler**                      | X |
+| **Great Weapon Master**           | X |
+| **Gunner**                        |   |   |    |    |    |    | X  |
+| **Healer**                        | X |
+| **Heavily Armored**               | X |
+| **Heavy Armor Master**            | X |
+| **Infernal Constitution**         |   |   |    | X  |
+| **Inspiring Leader**              | X |
+| **Keen Mind**                     | X |
+| **Lightly Armored**               | X |
+| **Linguist**                      | X |
+| **Lucky**                         | X |
+| **Mage Slayer**                   | X |
+| **Magic Initiate**                | X |
+| **Martial Adept**                 | X |
+| **Medium Armor Master**           | X |
+| **Metamagic Adept**               |   |   |    |    |    |    | X  |
+| **Mobile**                        | X |
+| **Moderately Armored**            | X |
+| **Mounted Combatant**             | X |
+| **Observant**                     | X |
+| **Orcish Fury**                   |   |   |    | X  |
+| **Piercer**                       |   |   |    |    |    |    | X  |
+| **Poisoner**                      |   |   |    |    |    |    | X  |
+| **Polearm Master**                | X |
+| **Prodigy**                       |   |   |    | X  |
+| **Resilient**                     | X |
+| **Revenant Blade**                |   |   |    |    |    | X  |
+| **Ritual Caster**                 | X |
+| **Savage Attacker**               | X |
+| **Second Chance**                 |   |   |    | X  |
+| **Sentinel**                      | X |
+| **Shadow Touched**                |   |   |    |    |    |    | X  |
+| **Sharpshooter**                  | X |
+| **Shield Master**                 | X |
+| **Skill Expert**                  |   |   |    |    |    |    | X  |
+| **Skilled**                       | X |
+| **Skulker**                       | X |
+| **Slasher**                       |   |   |    |    |    |    | X  |
+| **Spell Sniper**                  | X |
+| **Squat Nimbleness**              |   |   |    | X  |
+| **Svirfneblin Magic**             |   | X | X  |    | *  |
+| **Tavern Brawler**                | X |
+| **Telekenetic**                   |   |   |    |    |    |    | X  |
+| **Telepathic**                    |   |   |    |    |    |    | X  |
+| **Tough**                         | X |
+| **War Caster**                    | X |
+| **Weapon Master**                 | X |
+| **Wood Elf Magic**                |   |   |    | X  |

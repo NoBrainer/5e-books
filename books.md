@@ -364,11 +364,22 @@ Haunted One, Investigator
 ---
 
 ## Fizban's Treasury of Dragons (FToD)
-[UNDER CONSTRUCTION]
+### Race Options
+- **Dragonborn Variants:** Chromatic, Gem, Metallic
+### Class Options
+- **Monk Monastic Traditions:** Way of the Ascendant Dragon
+- **Ranger Archetypes:** Drakewarden
+### Feats
+Gift of the Chromatic Dragon, Gift of the Gem Dragon, Gift of the Metallic Dragon
 
 ---
 
 ## Strixhaven: A Curriculum of Chaos (SCoC)
+[UNDER CONSTRUCTION]
+
+---
+
+## Mordenkainen Presents: Monsters of the Multiverse (MMPM)
 [UNDER CONSTRUCTION]
 
 ---
