@@ -26,8 +26,8 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|
-|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|VRGR|
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|----|
 | **Aarakocra**                 |   |   |   | O |    |   |    |    |    |   |    | X  |
 | **Aasimar**                   |   |   |   |   |    | O | X  |    |    |   |    | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |    |    |   |    | X  |
@@ -36,6 +36,7 @@
 | **Bugbear**                   |   |   |   |   |    |   | X  |    |    |   | X  | X  |
 | **Centaur**                   |   |   |   |   |    |   |    |    | X  |   |    |    | X  |
 | **Changeling**                |   |   |   |   |    |   |    |    |    |   | X  |
+| **Dhampir**                   |   |   |   |   |    |   |    |    |    |   |    |    |    | X  |
 | **Dragonborn**                |   | X | X |
 | - Draconblood                 |   |   |   |   |    |   |    |    |    |   |    | X  |
 | - Ravenite                    |   |   |   |   |    |   |    |    |    |   |    | X  |
@@ -72,6 +73,7 @@
 | - Lightfoot Halfling          | X | X | X |
 | - Lotusden Halfling           |   |   |   |   |    |   |    |    |    |   |    | X  |
 | - Stout Halfling              | X |   | X |
+| **Hexblood**                  |   |   |   |   |    |   |    |    |    |   |    |    |    | X  |
 | **Hobgoblin**                 |   |   |   |   |    |   | X  |    |    |   | X  | X  |
 | **Human**                     | X | X | X |
 | **Kalashtar**                 |   |   |   |   |    |   |    |    |    |   | X  |
@@ -82,6 +84,7 @@
 | **Loxodon**                   |   |   |   |   |    |   |    |    | X  |
 | **Minotaur**                  |   |   |   |   |    |   |    |    | X  |   |    |    | X  |
 | **Orc**                       |   |   |   |   |    |   | O  |    |    |   | X  | X  |
+| **Reborn**                    |   |   |   |   |    |   |    |    |    |   |    |    |    | X  |
 | **Satyr**                     |   |   |   |   |    |   |    |    |    |   |    |    | X  |
 | **Shifter**                   |   |   |   |   |    |   |    |    |    |   | X  |
 | - Beasthide                   |   |   |   |   |    |   |    |    |    |   | X  |
@@ -108,8 +111,8 @@
 | **Yuan-ti Pureblood**         |   |   |   |   |    |   | X  |
 
 ## Classes
-|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|TCoE|
-|-----------------------------------|---|---|---|----|---|----|----|----|----|----|----|
+|                                   |PBR|SRD|PHB|SCAG|DMG|XGtE|GGtR|ERLW|EGtW|MOoT|TCoE|VRGR|
+|-----------------------------------|---|---|---|----|---|----|----|----|----|----|----|----|
 | **Artificer**                     |   |   |   |    |   |    |    | O  |    |    | X  |
 | - Alchemist                       |   |   |   |    |   |    |    | X  |    |    | X  |
 | - Armorer                         |   |   |   |    |   |    |    |    |    |    | X  |
@@ -129,6 +132,7 @@
 | - College of Eloquence            |   |   |   |    |   |    |    |    |    | X  | X  |
 | - College of Lore                 |   |   | X |
 | - College of Glamour              |   |   |   |    |   | X  |
+| - College of Spirits              |   |   |   |    |   |    |    |    |    |    |    | X  |
 | - College of Swords               |   |   |   |    |   | X  |
 | - College of Valor                |   |   | X |
 | - College of Whispers             |   |   |   |    |   | X  |
@@ -220,6 +224,7 @@
 | - The Genie                       |   |   |   |    |   |    |    |    |    |    | X  |
 | - The Great Old One               |   |   | X |
 | - The Hexblade                    |   |   |   |    |   | X  |
+| - The Undead                      |   |   |   |    |   |    |    |    |    |    |    | X  |
 | - The Undying                     |   |   |   | X  |
 | **Wizard**                        | X | X | X |    |   |    |    |    |    |    | +  |
 | - Bladesinging                    |   |   |   | X  |   |    |    |    |    |    | X  |
@@ -237,8 +242,8 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|MOoT|
-|-----------------------------------|---|---|---|----|----|---|----|----|----|
+|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|MOoT|VRGR|
+|-----------------------------------|---|---|---|----|----|---|----|----|----|----|
 | **Acolyte**                       | X | X | X |
 | **Athlete**                       |   |   |   |    |    |   |    |    | X  |
 | **Azorius Functionary**           |   |   |   |    | X  |
@@ -261,9 +266,11 @@
 | **Grinner**                       |   |   |   |    |    |   |    | X  |
 | **Gruul Anarch**                  |   |   |   |    | X  |
 | **Guild Artisan**                 |   |   | X |
+| **Haunted One**                   |   |   |   |    |    |   |    |    |    | X  |
 | **Hermit**                        |   |   | X |
 | **House Agent**                   |   |   |   |    |    |   | X  |
 | **Inheritor**                     |   |   |   | X  |
+| **Investigator**                  |   |   |   |    |    |   |    |    |    | X  |
 | **Izzet Engineer**                |   |   |   |    | X  |
 | **Knight of the Order**           |   |   |   | X  |
 | **Mercenary Veteran**             |   |   |   | X  |

@@ -351,7 +351,15 @@ Poisoner, Shadow Touched, Skill Expert, Slasher, Telekinetic, Telepathic
 ---
 
 ## Van Richten's Guide to Ravenloft (VRGR)
-[UNDER CONSTRUCTION]
+### Races
+- **Dhampir**
+- **Hexblood**
+- **Reborn**
+### Class Options
+- **Bard Colleges:** College of Spirits
+- **Warlock Otherworldly Patrons:** The Undead
+### Backgrounds
+Haunted One, Investigator
 
 ---
 
