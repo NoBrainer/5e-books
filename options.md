@@ -26,8 +26,8 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
-|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|VRGR|FToD|
-|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|----|----|
+|                               |PBR|SRD|PHB|EE |SCAG|DMG|VGtM|MToF|GGtR|AI |ERLW|EGtW|MOoT|VRGR|FToD|SCoC|
+|-------------------------------|---|---|---|---|----|---|----|----|----|---|----|----|----|----|----|----|
 | **Aarakocra**                 |   |   |   | O |    |   |    |    |    |   |    | X  |
 | **Aasimar**                   |   |   |   |   |    | O | X  |    |    |   |    | X  |
 | - Fallen Aasimar              |   |   |   |   |    |   | X  |    |    |   |    | X  |
@@ -87,6 +87,7 @@
 | **Loxodon**                   |   |   |   |   |    |   |    |    | X  |
 | **Minotaur**                  |   |   |   |   |    |   |    |    | X  |   |    |    | X  |
 | **Orc**                       |   |   |   |   |    |   | O  |    |    |   | X  | X  |
+| **Owlin**                     |   |   |   |   |    |   |    |    |    |   |    |    |    |    |    | X  |
 | **Reborn**                    |   |   |   |   |    |   |    |    |    |   |    |    |    | X  |
 | **Satyr**                     |   |   |   |   |    |   |    |    |    |   |    |    | X  |
 | **Shifter**                   |   |   |   |   |    |   |    |    |    |   | X  |
@@ -247,8 +248,8 @@
 | - War Magic                       |   |   |   |    |   | X  |
 
 ## Backgrounds
-|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|MOoT|VRGR|
-|-----------------------------------|---|---|---|----|----|---|----|----|----|----|
+|                                   |PBR|SRD|PHB|SCAG|GGtR|AI |ERLW|EGtW|MOoT|VRGR|SCoC|
+|-----------------------------------|---|---|---|----|----|---|----|----|----|----|----|
 | **Acolyte**                       | X | X | X |
 | **Athlete**                       |   |   |   |    |    |   |    |    | X  |
 | **Azorius Functionary**           |   |   |   |    | X  |
@@ -278,16 +279,20 @@
 | **Investigator**                  |   |   |   |    |    |   |    |    |    | X  |
 | **Izzet Engineer**                |   |   |   |    | X  |
 | **Knight of the Order**           |   |   |   | X  |
+| **Lorehold Student**              |   |   |   |    |    |   |    |    |    |    | X  |
 | **Mercenary Veteran**             |   |   |   | X  |
 | **Noble**                         | X |   | X |
 | **Orzhov Representative**         |   |   |   |    | X  |
 | **Outlander**                     |   |   | X |
 | **Plaintiff**                     |   |   |   |    |    | X |
+| **Prismari Student**              |   |   |   |    |    |   |    |    |    |    | X  |
+| **Quandrix Student**              |   |   |   |    |    |   |    |    |    |    | X  |
 | **Rakdos Cultist**                |   |   |   |    | X  |
 | **Rival Intern**                  |   |   |   |    |    | X |
 | **Sage**                          | X |   | X |
 | **Sailor**                        |   |   | X |
 | **Selesnya Initiate**             |   |   |   |    | X  |
+| **Silverquill Student**           |   |   |   |    |    |   |    |    |    |    | X  |
 | **Simic Scientist**               |   |   |   |    | X  |
 | **Soldier**                       | X |   | X |
 | **Urban Bounty Hunter**           |   |   |   | X  |
@@ -295,10 +300,11 @@
 | **Uthgardt Tribe Member**         |   |   |   | X  |
 | **Volstrucker Agent**             |   |   |   |    |    |   |    | X  |
 | **Waterdhavian Noble**            |   |   |   | X  |
+| **Witherbloom Student**           |   |   |   |    |    |   |    |    |    |    | X  |
 
 ## Feats
-|                                   |PHB|EE |SCAG|XGtE|MToF|ERLW|TCoE|FToD|
-|-----------------------------------|---|---|----|----|----|----|----|----|
+|                                   |PHB|EE |SCAG|XGtE|MToF|ERLW|TCoE|FToD|SCoC|
+|-----------------------------------|---|---|----|----|----|----|----|----|----|
 | **Aberrant Dragonmark**           |   |   |    |    |    | X  |
 | **Alert**                         | X |
 | **Artificer Initiate**            |   |   |    |    |    |    | X  |
@@ -369,6 +375,8 @@
 | **Slasher**                       |   |   |    |    |    |    | X  |
 | **Spell Sniper**                  | X |
 | **Squat Nimbleness**              |   |   |    | X  |
+| **Strixhaven Initiate**           |   |   |    |    |    |    |    |    | X  |
+| **Strixhaven Mascot**             |   |   |    |    |    |    |    |    | X  |
 | **Svirfneblin Magic**             |   | X | X  |    | *  |
 | **Tavern Brawler**                | X |
 | **Telekenetic**                   |   |   |    |    |    |    | X  |

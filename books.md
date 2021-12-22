@@ -375,7 +375,12 @@ Gift of the Chromatic Dragon, Gift of the Gem Dragon, Gift of the Metallic Drago
 ---
 
 ## Strixhaven: A Curriculum of Chaos (SCoC)
-[UNDER CONSTRUCTION]
+### Races
+- **Owlin**
+### Backgrounds
+Lorehold Student, Prismari Student, Quandrix Student, Silverquill Student, Witherbloom Student
+### Feats
+Strixhaven Initiate, Strixhaven Mascot
 
 ---
 
