@@ -96,10 +96,10 @@ Master, Skilled, Skulker, Spell Sniper, Tavern Brawler, Tough, War Caster, Weapo
 
 ## Elemental Evil Player's Companion (EE) - [PDF](https://media.wizards.com/2015/downloads/dnd/EE_PlayersCompanion.pdf)
 ### Races
-- ~~**Aarakocra**~~ [Updated in EGtW]
-- **Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
-- **Gnome** - Subraces: Deep Gnome (Svirfneblin)
-- **Goliath**
+- ~~**Aarakocra**~~ [Updated in MPMM]
+- ~~**Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi~~ [Updated in MPMM]
+- ~~**Gnome** - Subraces: Deep Gnome (Svirfneblin)~~ [Updated in MPMM]
+- ~~**Goliath**~~ [Updated in MPMM]
 ### Feats
 Svirfneblin Magic
 
@@ -107,7 +107,7 @@ Svirfneblin Magic
 
 ## Sword Coast Adventurer's Guide (SCAG)
 ### Subraces
-Deep Gnome (Svirfneblin)
+- ~~**Deep Gnome (Svirfneblin)**~~ [Updated in MPMM]
 ### Class Options
 - **Barbarian Primal Paths:** Path of the Battlerager, More options for Path of the Totem Warrior
 - **Cleric Divine Domains:** Arcana Domain
@@ -128,28 +128,28 @@ Svirfneblin Magic
 
 ## Dungeon Master's Guide (DMG)
 ### Races
-~~Aasimar~~ [Updated in VGtM]
+- ~~**Aasimar**~~ [Updated in MPMM]
 ### Class Options
 - **Cleric Divine Domains:** Death Domain
 - **Paladin Sacred Oaths:** Oathbreaker
 
 ---
 
-## Volo's Guide to Monsters (VGtM)
+## Volo's Guide to Monsters (VGtM) [DISCONTINUED]
 ### Races
-- **Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar
-- **Bugbear**
-- **Firbolg**
-- **Goblin**
-- **Goliath**
-- **Hobgoblin**
-- **Kenku**
-- **Kobold**
-- **Lizardfolk**
-- ~~**Orc**~~ [Updated in ERLW]
-- **Tabaxi**
-- ~~**Triton**~~ [Updated in MOoT]
-- **Yuan-ti Pureblood**
+- ~~**Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar~~ [Updated in MPMM]
+- ~~**Bugbear**~~ [Updated in MPMM]
+- ~~**Firbolg**~~ [Updated in MPMM]
+- ~~**Goblin**~~ [Updated in MPMM]
+- ~~**Goliath**~~ [Updated in MPMM]
+- ~~**Hobgoblin**~~ [Updated in MPMM]
+- ~~**Kenku**~~ [Updated in MPMM]
+- ~~**Kobold**~~ [Updated in MPMM]
+- ~~**Lizardfolk**~~ [Updated in MPMM]
+- ~~**Orc**~~ [Updated in MPMM]
+- ~~**Tabaxi**~~ [Updated in MPMM]
+- ~~**Triton**~~ [Updated in MPMM]
+- ~~**Yuan-ti Pureblood**~~ [Updated in MPMM]
 
 ---
 
@@ -178,13 +178,13 @@ Elf Magic
 
 ---
 
-## Mordekainen's Tome of Foes (MToF)
+## Mordekainen's Tome of Foes (MToF) [DISCONTINUED]
 ### Races
-- **Gith** - Subraces: Githyanki, Githzerai
+- ~~**Gith** - Subraces: Githyanki, Githzerai~~ [Updated in MPMM]
 ### Race Options
-- **Dwarf Subraces:** Duegar
-- **Elf Subraces:** Eladrin, Sea Elf, Shadar-kai
-- **Gnome Subraces:** Deep Gnome (Svirfneblin)
+- ~~**Dwarf Subraces:** Duergar~~ [Updated in MPMM]
+- **Elf Subraces:** ~~Eladrin~~, Sea Elf, Shadar-kai [Updated in MPMM]
+- ~~**Gnome Subraces:** Deep Gnome (Svirfneblin)~~ [Updated in MPMM]
 - **Tiefling Subraces:** Asmodeus (same as default Tiefling in the PHB), Baalzebul, Dispater, Fierna, Glasya, Levistus,
 Mammon, Mephistopheles, Zariel
 ### Feats
@@ -194,10 +194,10 @@ Svirfneblin Magic
 
 ## Guildmaster's Guide to Ravnica (GGtR)
 ### Races
-- **Centaur**
-- **Goblin**
+- ~~**Centaur**~~ [Updated in MPMM]
+- ~~**Goblin**~~ [Updated in MPMM]
 - **Loxodon**
-- **Minotaur**
+- ~~**Minotaur**~~ [Updated in MPMM]
 - **Simic Hybrid**
 - **Vedalken**
 ### Class Options
@@ -219,13 +219,13 @@ Celebrity Adventurer's Scion, Failed Merchant, Gambler, Plaintiff, Rival Intern
 
 ## Eberron: Rising from the Last War (ERLW)
 ### Races
-- **Bugbear**
-- **Changeling**
-- **Goblin**
-- **Hobgoblin**
+- ~~**Bugbear**~~ [Updated in MPMM]
+- ~~**Changeling**~~ [Updated in MPMM]
+- ~~**Goblin**~~ [Updated in MPMM]
+- ~~**Hobgoblin**~~ [Updated in MPMM]
 - **Kalashtar**
-- **Orc**
-- **Shifter** - Subraces: Beasthide, Longtooth, Swiftstride, Wildhunt
+- ~~**Orc**~~ [Updated in MPMM]
+- ~~**Shifter** - Subraces: Beasthide, Longtooth, Swiftstride, Wildhunt~~ [Updated in MPMM]
 - **Warforged**
 ### Classes
 - ~~**Artificer**~~ - Artificer Specialists: Alchemist, ~~Artillerist~~, ~~Battle Smith~~ [Updated in TCoE]
@@ -238,17 +238,17 @@ Aberrant Dragonmark, Revenant Blade
 
 ## Explorer's Guide to Wildemount (EGtW)
 ### Races
-- **Aarakocra**
-- **Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar
-- **Bugbear**
-- **Firbolg**
-- **Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi
-- **Goblin**
-- **Goliath**
-- **Kenku**
-- **Orc**
-- **Tabaxi**
-- **Tortle**
+- ~~**Aarakocra**~~  [Updated in MPMM]
+- ~~**Aasimar** - Subraces: Fallen Aasimar, Protector Aasimar, Scourge Aasimar~~ [Updated in MPMM]
+- ~~**Bugbear**~~ [Updated in MPMM]
+- ~~**Firbolg**~~ [Updated in MPMM]
+- ~~**Genasi** - Subraces: Air Genasi, Earth Genasi, Fire Genasi, Water Genasi~~ [Updated in MPMM]
+- ~~**Goblin**~~ [Updated in MPMM]
+- ~~**Goliath**~~ [Updated in MPMM]
+- ~~**Kenku**~~ [Updated in MPMM]
+- ~~**Orc**~~ [Updated in MPMM]
+- ~~**Tabaxi**~~ [Updated in MPMM]
+- ~~**Tortle**~~ [Updated in MPMM]
 ### Race Options
 - **Dragonborn Variants:** Draconblood, Ravenite
 - **Elf Subraces:** Pallid Elf, Sea Elf
@@ -263,11 +263,11 @@ Grinner, Volstrucker Agent
 
 ## Mythic Odysseys of Theros (MOoT)
 ### Races
-- **Centaur**
+- ~~**Centaur**~~ [Updated in MPMM]
 - **Leonin**
-- **Minotaur**
-- **Satyr**
-- **Triton**
+- ~~**Minotaur**~~ [Updated in MPMM]
+- ~~**Satyr**~~ [Updated in MPMM]
+- ~~**Triton**~~ [Updated in MPMM]
 ### Class Options
 - **Bard Colleges:** College of Eloquence
 - **Paladin Sacred Oaths:** Oath of Glory
@@ -384,7 +384,40 @@ Strixhaven Initiate, Strixhaven Mascot
 
 ---
 
-## Mordenkainen Presents: Monsters of the Multiverse (MMPM)
-[UNDER CONSTRUCTION]
+## Mordenkainen Presents: Monsters of the Multiverse (MPMM)
+### Races
+- **Aarakocra**
+- **Aasimar**
+- **Bugbear**
+- **Centaur**
+- **Changeling**
+- **Deep Gnome**
+- **Duergar**
+- **Eladrin**
+- **Fairy**
+- **Firbolg**
+- **Genasi, Air**
+- **Genasi, Earth**
+- **Genasi, Fire**
+- **Genasi, Water**
+- **Githyanki**
+- **Githzerai**
+- **Goblin**
+- **Goliath**
+- **Harengon**
+- **Hobgoblin**
+- **Kenku**
+- **Kobold**
+- **Lizardfolk**
+- **Minotaur**
+- **Orc**
+- **Satyr**
+- **Sea Elf**
+- **Shadar-Kai**
+- **Shifter**
+- **Tabaxi**
+- **Tortle**
+- **Triton**
+- **Yuan-ti**
 
 ---
