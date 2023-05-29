@@ -26,6 +26,7 @@
 | MPMM  | Mordenkainen Presents: Monsters of the Multiverse |
 
 ## Races
+
 |                            | PBR | SRD | PHB | EE  | SCAG | DMG | VGtM | MToF | GGtR | AI  | ERLW | EGtW | MOoT | VRGR | FToD | SCoC | MPMM |
 |----------------------------|-----|-----|-----|-----|------|-----|------|------|------|-----|------|------|------|------|------|------|------|
 | **Aarakocra**              |     |     |     | O   |      |     |      |      |      |     |      | O    |      |      |      |      | X    |
@@ -119,6 +120,7 @@
 | **Yuan-ti**                |     |     |     |     |      |     | O    |      |      |     |      |      |      |      |      |      | X    |
 
 ## Classes
+
 |                                  | PBR | SRD | PHB | SCAG | DMG | XGtE | GGtR | ERLW | EGtW | MOoT | TCoE | VRGR | FToD |
 |----------------------------------|-----|-----|-----|------|-----|------|------|------|------|------|------|------|------|
 | **Artificer**                    |     |     |     |      |     |      |      | O    |      |      | X    |
@@ -252,6 +254,7 @@
 | - War Magic                      |     |     |     |      |     | X    |
 
 ## Backgrounds
+
 |                                  | PBR | SRD | PHB | SCAG | GGtR | AI  | ERLW | EGtW | MOoT | VRGR | SCoC |
 |----------------------------------|-----|-----|-----|------|------|-----|------|------|------|------|------|
 | **Acolyte**                      | X   | X   | X   |
@@ -307,6 +310,7 @@
 | **Witherbloom Student**          |     |     |     |      |      |     |      |      |      |      | X    |
 
 ## Feats
+
 |                                  | PHB | EE  | SCAG | XGtE | MToF | ERLW | TCoE | FToD | SCoC |
 |----------------------------------|-----|-----|------|------|------|------|------|------|------|
 | **Aberrant Dragonmark**          |     |     |      |      |      | X    |
