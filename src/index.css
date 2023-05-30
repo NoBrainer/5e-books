@@ -1,0 +1,13 @@
+body {
+  overflow-y: scroll;
+}
+
+a {
+  color: inherit;
+}
+
+ol,
+ul {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
